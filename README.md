@@ -49,21 +49,20 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
 * [Updates](#updates)
 * [Survey Introduction](#survey-introduction)
-  * [Keywords Convention](#keywords-convention)
+   * [Keywords Convention](#keywords-convention)
 * [Table of Contents](#table-of-contents)
   
 * [Related Surveys for LLMs Evaluation](#related-surveys-for-LLMs-evaluation)
   
 * [Papers](#papers)
-  * [Knowledge and Capability Evaluation](#booksknowledge-and-capability-evaluation)
-    * [Question Answering](#question-answering)
+   * [Knowledge and Capability Evaluation](#booksknowledge-and-capability-evaluation)
+      * [Question Answering](#question-answering)
       * [Knowledge Completion](#knowledge-completion)
       * [Reasoning](#reasoning)
-        * [Commonsense Reasoning](#commonsense-reasoning)
-      * [Logical Reasoning](#logical-reasoning)
-        * [Multi-hop Reasoning](#multi-hop-reasoning)
-      * [Mathematical Reasoning](#mathematical-reasoning)
-    
+         * [Commonsense Reasoning](#commonsense-reasoning)
+         * [Logical Reasoning](#logical-reasoning)
+         * [Multi-hop Reasoning](#multi-hop-reasoning)
+         * [Mathematical Reasoning](#mathematical-reasoning)
       * [Tool Learning](#tool-learning)
     
    * [Alignment Evaluation](#triangular_ruleralignment-evaluation)
@@ -72,14 +71,14 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
       * [Toxicity](#toxicity)
       * [Truthfulness](#truthfulness)
     
-  * [Safety Evaluation](#closed_lock_with_keysafety-evaluation)
+   * [Safety Evaluation](#closed_lock_with_keysafety-evaluation)
       * [Robustness](#robustness)
       * [Risk Evaluation](#risk-evaluation)
-        * [Evaluating LLMs Behaviors](#evaluating-llms-behaviors)
-        * [Evaluating LLMs as Agents](#evaluating-llms-as-agents)
+         * [Evaluating LLMs Behaviors](#evaluating-llms-behaviors)
+         * [Evaluating LLMs as Agents](#evaluating-llms-as-agents)
       
-  * [Specialized LLMs Evaluation](#syringewoman_judgecomputermoneybagspecialized-llms-evaluation)
-    * [Biology and Medicine](#biology-and-medicine)
+   * [Specialized LLMs Evaluation](#syringewoman_judgecomputermoneybagspecialized-llms-evaluation)
+      * [Biology and Medicine](#biology-and-medicine)
       * [Education](#education)
       * [Legislation](#legislation)
       * [Computer Science](#computer-science)
