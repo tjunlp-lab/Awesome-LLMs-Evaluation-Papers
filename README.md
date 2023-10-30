@@ -89,9 +89,9 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
       * [Benchmarks for Knowledge and Reasoning](#benchmarks-for-knowledge-and-reasoning)
       * [Benchmark for Holistic Evaluation](#benchmark-for-holistic-evaluation)
     
-  * [LLM Leaderboards](#llm-leaderboards)
+   * [LLM Leaderboards](#llm-leaderboards)
   
-  * [Contributors](#contributors)
+   * [Contributors](#contributors)
 
 ## Related Surveys for LLMs Evaluation
 
