@@ -14,8 +14,9 @@ The papers are organized according to our survey: Evaluating Large Language Mode
 
 <p align="center">(*: Co-first authors, †: Corresponding author)</p>
 
-<img src="./imgs/Figure_1.png" style="zoom:30%">
-
+<div align=center>
+<img src="./imgs/Figure_1.png" style="zoom:30%"/>
+</div>
 
 
 ## Contributing to this paper list
@@ -54,7 +55,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 * [Related Surveys for LLMs Evaluation](#related-surveys-for-LLMs-evaluation)
   
 * [Papers](#papers)
-  * [Knowledge and Capability Evaluation](#knowledge-and-capability-evaluation)
+  * [Knowledge and Capability Evaluation](#booksknowledge-and-capability-evaluation)
     * [Question Answering](#question-answering)
       * [Knowledge Completion](#knowledge-completion)
       * [Reasoning](#reasoning)
@@ -65,30 +66,29 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
     
       * [Tool Learning](#tool-learning)
     
-    * [Alignment Evaluation](#alignment-evaluation)
-    * [Ethics and Morality](#ethics-and-morality)
+   * [Alignment Evaluation](#triangular_ruleralignment-evaluation)
+      * [Ethics and Morality](#ethics-and-morality)
       * [Bias](#bias)
       * [Toxicity](#toxicity)
       * [Truthfulness](#truthfulness)
     
-  * [Safety Evaluation](#safety-evaluation)
+  * [Safety Evaluation](#closed_lock_with_keysafety-evaluation)
       * [Robustness](#robustness)
       * [Risk Evaluation](#risk-evaluation)
         * [Evaluating LLMs Behaviors](#evaluating-llms-behaviors)
         * [Evaluating LLMs as Agents](#evaluating-llms-as-agents)
       
-  * [Specialized LLMs Evaluation](#specialized-llms-evaluation)
+  * [Specialized LLMs Evaluation](#syringewoman_judgecomputermoneybagspecialized-llms-evaluation)
     * [Biology and Medicine](#biology-and-medicine)
       * [Education](#education)
       * [Legislation](#legislation)
       * [Computer Science](#computer-science)
       * [Finance](#finance)
     
-    * [Evaluation Organization](#evaluation-organization)
-    
-    * [Benchmarks for NLU and NLG](#benchmarks-for-NLU-and-nlg)
+   * [Evaluation Organization](#earth_americasevaluation-organization)
+      * [Benchmarks for NLU and NLG](#benchmarks-for-nlu-and-nlg)
       * [Benchmarks for Knowledge and Reasoning](#benchmarks-for-knowledge-and-reasoning)
-    * [Benchmark for Holistic Evaluation](#benchmark-for-holistic-evaluation)
+      * [Benchmark for Holistic Evaluation](#benchmark-for-holistic-evaluation)
     
   * [LLM Leaderboards](#llm-leaderboards)
   
