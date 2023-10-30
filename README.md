@@ -2,9 +2,9 @@
 
 # Awesome LLMs Evaluation Papers :bookmark_tabs:
 
-The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.
+The papers are organized according to our survey:
 
-#### <p align="center">Evaluating Large Language Models: A Comprehensive Survey</p>
+<p align="center"><strong>Evaluating Large Language Models: A Comprehensive Survey</strong></p>
 
 <p align="center">Zishan Guo*,   Renren Jin*,   Chuang Liu*,   Yufei Huang,   Dan Shi,   Supryadi, </p>
 
@@ -35,25 +35,23 @@ This survey endeavors to offer a panoramic perspective on the evaluation of LLMs
 
 We hope that this comprehensive overview will stimulate further research interests in the evaluation of LLMs, with the ultimate goal of making evaluation serve as a cornerstone in guiding the responsible development of LLMs. We envision that this will channel their evolution into a direction that maximizes societal benefit while minimizing potential risks.
 
-## Keywords Convention
+## Markups
 
-This paper proposes a dataset that can be used for LLMs evaluation.![](https://img.shields.io/badge/Dataset-blue)
+The paper proposes a dataset that can be used for LLMs evaluation.![](https://img.shields.io/badge/Dataset-blue)
 
-This paper proposes an evaluation method that can be used for LLMs.![](https://img.shields.io/badge/Evaluation%20Method-orange)
+The paper proposes an evaluation method that can be used for LLMs.![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-This paper proposes a platform for LLMs evaluation.![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+The paper proposes a platform for LLMs evaluation.![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
-This paper examines the performance of LLMs in a particular domain.![](https://img.shields.io/badge/Rearch-green)
+The paper examines the performance of LLMs in a particular domain.![](https://img.shields.io/badge/Rearch-green)
 
 ## Table of Contents
 
 * [Updates](#updates)
 * [Survey Introduction](#survey-introduction)
-   * [Keywords Convention](#keywords-convention)
+* [Markups](#markups)
 * [Table of Contents](#table-of-contents)
-  
 * [Related Surveys for LLMs Evaluation](#related-surveys-for-LLMs-evaluation)
-  
 * [Papers](#papers)
    * [Knowledge and Capability Evaluation](#booksknowledge-and-capability-evaluation)
       * [Question Answering](#question-answering)
