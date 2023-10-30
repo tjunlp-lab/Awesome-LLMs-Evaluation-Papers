@@ -19,10 +19,6 @@ The papers are organized according to our survey: Evaluating Large Language Mode
 </div>
 
 
-![image](./imgs/Figure_1.png = 250x250)
-
-![image](./imgs/Figure_1.png {width=40px height=400px})
-
 ## Contributing to this paper list
 
 Feel free to open an issue/PR or e-mail [guozishan@tju.edu.cn](mailto:guozishan@tju.edu.cn), [rrjin@tju.edu.cn](mailto:rrjin@tju.edu.cn), [liuc_09@tju.edu.cn](mailto:liuc_09@tju.edu.cn) and [dyxiong@tju.edu.cn](mailto:dyxiong@tju.edu.cn) if you find any missing areas, papers, or datasets. We will keep updating this list and survey.
