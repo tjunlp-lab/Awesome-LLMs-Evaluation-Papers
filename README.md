@@ -19,6 +19,10 @@ The papers are organized according to our survey: Evaluating Large Language Mode
 </div>
 
 
+![image](./imgs/Figure_1.png = 250x250)
+
+![image](./imgs/Figure_1.png {width=40px height=400px})
+
 ## Contributing to this paper list
 
 Feel free to open an issue/PR or e-mail [guozishan@tju.edu.cn](mailto:guozishan@tju.edu.cn), [rrjin@tju.edu.cn](mailto:rrjin@tju.edu.cn), [liuc_09@tju.edu.cn](mailto:liuc_09@tju.edu.cn) and [dyxiong@tju.edu.cn](mailto:dyxiong@tju.edu.cn) if you find any missing areas, papers, or datasets. We will keep updating this list and survey.
@@ -39,7 +43,7 @@ We hope that this comprehensive overview will stimulate further research interes
 
 This paper proposes a dataset that can be used for LLMs evaluation.![](https://img.shields.io/badge/Dataset-blue)
 
-This paper proposes an evaluation method that can be used for LLMs.![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+This paper proposes an evaluation method that can be used for LLMs.![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
 This paper proposes a platform for LLMs evaluation.![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
@@ -64,13 +68,13 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
          * [Multi-hop Reasoning](#multi-hop-reasoning)
          * [Mathematical Reasoning](#mathematical-reasoning)
       * [Tool Learning](#tool-learning)
-    
+   
    * [Alignment Evaluation](#triangular_ruleralignment-evaluation)
       * [Ethics and Morality](#ethics-and-morality)
       * [Bias](#bias)
       * [Toxicity](#toxicity)
       * [Truthfulness](#truthfulness)
-    
+   
    * [Safety Evaluation](#closed_lock_with_keysafety-evaluation)
       * [Robustness](#robustness)
       * [Risk Evaluation](#risk-evaluation)
@@ -83,14 +87,14 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
       * [Legislation](#legislation)
       * [Computer Science](#computer-science)
       * [Finance](#finance)
-    
+   
    * [Evaluation Organization](#earth_americasevaluation-organization)
       * [Benchmarks for NLU and NLG](#benchmarks-for-nlu-and-nlg)
       * [Benchmarks for Knowledge and Reasoning](#benchmarks-for-knowledge-and-reasoning)
       * [Benchmark for Holistic Evaluation](#benchmark-for-holistic-evaluation)
-    
+   
    * [LLM Leaderboards](#llm-leaderboards)
-  
+    
    * [Contributors](#contributors)
 
 ## Related Surveys for LLMs Evaluation
@@ -138,15 +142,15 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
 #### Knowledge Completion
 
-1. LAMA: **"Language Models as Knowledge Bases?"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+1. LAMA: **"Language Models as Knowledge Bases?"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *In Kentaro Inui et al*. EMNLP-IJCNLP 2019. [[Paper](https://aclanthology.org/D19-1250.pdf)] [[GitHub](https://github.com/facebookresearch/LAMA)] 
 
-2. Kola: **"Kola: Carefully Benchmarking World Knowledge of Large Language models"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+2. Kola: **"Kola: Carefully Benchmarking World Knowledge of Large Language models"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *JiaFang Yu et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2306.09296)] [[Source](https://kola.xlore.cn)] 
 
-3. WikiFact: **"Assessing the Factual Accuracy of Generated Text"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+3. WikiFact: **"Assessing the Factual Accuracy of Generated Text"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Ben Goodrich et al*. KDD 2019. [[Paper](https://arxiv.org/abs/1905.13322)] 
 
@@ -264,7 +268,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
     *Simeng Han et al.* arXiv 2022. [[Paper](http://arxiv.org/abs/2209.00840)] [[GitHub](https://github.com/Yale-LILY/FOLIO)] 
 
-14. **"Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+14. **"Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
     *Fangzhi Xu and Qika Lin et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2306.09841v3)] [[GitHub](https://github.com/DeepReasoning/NeuLR)] 
 
@@ -352,25 +356,25 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
     *WeiTian Wen et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.16636.pdf)] 
 
-12. AUTOPROMPT: **"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+12. AUTOPROMPT: **"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Jason Wei et al*. NeurIPS 2022. [[Paper](https://arxiv.org/pdf/2201.11903.pdf)] 
 
-13. **"Evaluating Language Models for Mathematics Through Interactions"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+13. **"Evaluating Language Models for Mathematics Through Interactions"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Katherine M. Collins et al*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.01694.pdf)] 
 
 #### Tool Learning
 
-1. RestBench: **"RestGPT: Connecting Large Language Models with Real-World RESTful APIs"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+1. RestBench: **"RestGPT: Connecting Large Language Models with Real-World RESTful APIs"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Yifan Song et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2306.06624)] [[GitHub](https://github.com/Yifan-Song793/RestGPT)] 
 
-2. SayCan: **"Do As I Can, Not As I Say: Grounding Language in Robotic Affordances"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+2. SayCan: **"Do As I Can, Not As I Say: Grounding Language in Robotic Affordances"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Michael Ahn et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2204.01691)] [[GitHub](https://say-can.github.io/)] 
 
-3. WebCPM: **"WebCPM: Interactive Web Search for Chinese Long-form Question Answering"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+3. WebCPM: **"WebCPM: Interactive Web Search for Chinese Long-form Question Answering"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Yujia Qin et al.* ACL 2023. [[Paper](https://arxiv.org/abs/2305.06849)] [[GitHub](https://github.com/thunlp/WebCPM)] 
 
@@ -378,7 +382,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
    *Shunyu Yao et al.* NeurIPS 2022. [[Paper](https://arxiv.org/abs/2207.01206)] [[GitHub](https://github.com/princeton-nlp/WebShop)] 
 
-5. ToolAlpaca: **"ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+5. ToolAlpaca: **"ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Qiaoyu Tang et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2306.05301)] [[GitHub](https://github.com/tangqiaoyu/ToolAlpaca)] 
 
@@ -394,7 +398,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
    *Timo Schick et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04761)] [[GitHub](https://github.com/lucidrains/toolformer-pytorch)] 
 
-9. ALFRED: **"ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+9. ALFRED: **"ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Mohit Shridhar et al.* CVPR 2020. [[Paper](https://arxiv.org/abs/1912.01734)] [[GitHub](https://github.com/askforalfred/alfred)] 
 
@@ -402,7 +406,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
     *Mohit Shridhar et al.* ICLR 2021. [[Paper](https://arxiv.org/abs/2010.03768)] [[GitHub](https://github.com/alfworld/alfworld)] 
 
-11. BEHAVIOR: **"BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+11. BEHAVIOR: **"BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Sanjana Srivastava et al.* PMLR 2021. [[Paper](https://arxiv.org/abs/2108.03332)] [[GitHub](https://stanfordvl.github.io/behavior/intro.html#datasets)] 
 
@@ -422,19 +426,19 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
     *Yujia Qin* *et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2304.08354)] [[GitHub](https://github.com/OpenBMB/BMTools)] 
 
-16. ToolEval: **"ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+16. ToolEval: **"ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Yujia Qin et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2307.16789)] [[GitHub](https://openbmb.github.io/ToolBench/)] 
 
-17. LaMDA: **"LaMDA: Language Models for Dialog Applications"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+17. LaMDA: **"LaMDA: Language Models for Dialog Applications"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Romal Thoppilan et al.* arXiv 2022. [[Paper](https://arxiv.org/abs/2201.08239)] [[GitHub](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)] 
 
-18. GeneGPT: **"GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information"**.  ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+18. GeneGPT: **"GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information"**.  ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Qiao Jin et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2304.09667)] [[GitHub](https://github.com/ncbi/GeneGPT)]
 
-19. Code as Policies: **"Code as Policies: Language Model Programs for Embodied Control"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+19. Code as Policies: **"Code as Policies: Language Model Programs for Embodied Control"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Jacky Liang et al.* ICRA 2023. [[Paper](https://arxiv.org/abs/2209.07753)] [[GitHub](https://github.com/google-research/google-research/tree/master/code_as_policies)] 
 
@@ -486,15 +490,15 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
    *Nicholas Lourie et al.* AAAI 2021. [[Paper](https://arxiv.org/pdf/2008.09094.pdf)] [[Github](https://github.com/allenai/scruples)] 
 
-10. **"Trustgpt:A benchmark for trustworthy and responsible large language models".** ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+10. **"Trustgpt:A benchmark for trustworthy and responsible large language models".** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Yue Huang et al. CoRL 2022.* [[Paper](https://arxiv.org/pdf/2306.11507.pdf)] [[Github](https://github.com/THU-KEG/EvaluationPapers4ChatGPT)] 
 
-11. **"Aligning AI with shared human values".** ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+11. **"Aligning AI with shared human values".** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Dan Hendrycks et al.* ICLR 2021. [[Paper](https://arxiv.org/pdf/2008.02275.pdf)] [[Github](https://github.com/hendrycks/ethics)]
 
-12. **"Evaluating the moral beliefs encoded in llms".** ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+12. **"Evaluating the moral beliefs encoded in llms".** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Nino Scherrer et al.* CORR 2023. [[Paper](https://arxiv.org/pdf/2307.14324.pdf)] [[Github](https://github.com/ninodimontalcino/moralchoice)] 
 
@@ -580,15 +584,15 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
     *Nikita Nangia et al.* EMNLP 2020. [[Paper](https://arxiv.org/abs/2010.00133)] [[GitHub](https://github.com/nyu-mll/crows-pairs)] [[Source](https://huggingface.co/datasets/crows_pairs)] 
 
-21. "**Does gender matter? towards fairness in dialogue systems**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+21. "**Does gender matter? towards fairness in dialogue systems**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Haochen Liu et al.* COLING 2020.  [[Paper](https://arxiv.org/abs/1910.10486)] [[GitHub](https://github.com/zgahhblhc/DialogueFairness)] 
 
-22. BOLD: "**BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+22. BOLD: "**BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Jwala Dhamala et al.* FAccT 2021. [[Paper](https://arxiv.org/abs/2101.11718)] [[GitHub](https://github.com/amazon-science/bold)] [[Source](https://huggingface.co/datasets/AlexaAI/bold)] 
 
-23. HolisticBias: "**“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+23. HolisticBias: "**“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Eric Michael Smith et al.* EMNLP 2022. [[Paper](https://arxiv.org/abs/2205.09209)] [[GitHub](https://github.com/facebookresearch/ResponsibleNLP/tree/main/holistic_bias)] 
 
@@ -616,19 +620,19 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
     *Ilias Chalkidis et al.* ACL 2022. [[Paper](https://arxiv.org/abs/2203.07228)] [[GitHub](https://github.com/coastalcph/fairlex)] 
 
-30. "**Nuanced Metrics for Measuring Unintended Bias with Real Data for Text Classification**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+30. "**Nuanced Metrics for Measuring Unintended Bias with Real Data for Text Classification**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Daniel Borkan et al.* WWW 2019. [[Paper](https://arxiv.org/abs/1903.04561)] 
 
-31. "**On measuring and mitigating biased inferences of word embeddings**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+31. "**On measuring and mitigating biased inferences of word embeddings**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     Sunipa Dev et al. AAAI 2020. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6267/6123)] 
 
-32. "**An Empirical Study of Metrics to Measure Representational Harms in Pre-Trained Language Models**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+32. "**An Empirical Study of Metrics to Measure Representational Harms in Pre-Trained Language Models**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Saghar Hosseini et al.* TrustNLP 2023. [[Paper](https://arxiv.org/pdf/2301.09211)] [[GitHub](https://github.com/microsoft/SafeNLP)] 
 
-33. "**Revealing Persona Biases in Dialogue Systems**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+33. "**Revealing Persona Biases in Dialogue Systems**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Emily Sheng et al.* arXiv  2021. [[Paper](https://arxiv.org/abs/2104.08728)] [[GitHub](https://github.com/ewsheng/persona-biases)] 
 
@@ -666,7 +670,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
    *Omar Shaikh et al.* ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.244.pdf)] [[Github](https://github.com/SALT-NLP/chain-of-thought-bias)] 
 
-7. **"Toxicity in ChatGPT: Analyzing Persona-assigned Language Models"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+7. **"Toxicity in ChatGPT: Analyzing Persona-assigned Language Models"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Ameet Deshpande et al.* arXiv 2023 [[Paper](https://arxiv.org/pdf/2304.05335.pdf)] 
 
@@ -700,7 +704,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
    *Prakhar Gupta et al*. ACL 2022. [[Paper](https://aclanthology.org/2022.acl-long.263.pdf)] [[GitHub](https://github.com/salesforce/DialFact)] 
 
-8. "**Q2: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+8. "**Q2: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Or Honovich et al*. EMNLP 2021. [[Paper](https://aclanthology.org/2021.emnlp-main.619.pdf)] [[GitHub](https://github.com/orhonovich/q-squared)] 
 
@@ -708,15 +712,15 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
    *Nouha Dziri and Hannah Rashkin et al*. TACL 2022. [[Paper](https://arxiv.org/pdf/2105.00071.pdf)] [[GitHub](https://github.com/google/BEGIN-dataset)] 
 
-10. ConsisTest: "**What Was Your Name Again? Interrogating Generative Conversational Models For Factual Consistency Evaluation**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+10. ConsisTest: "**What Was Your Name Again? Interrogating Generative Conversational Models For Factual Consistency Evaluation**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Ehsan Lotfi et al*. GEM 2022. [[Paper](https://aclanthology.org/2022.gem-1.47.pdf)] [[GitHub](https://github.com/ELotfi/consistest)] 
 
-11. XSumFaith: "**On Faithfulness and Factuality in Abstractive Summarization**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+11. XSumFaith: "**On Faithfulness and Factuality in Abstractive Summarization**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Joshua Maynez and Shashi Narayan et al*. ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.173.pdf)] [[GitHub](https://github.com/google-research-datasets/xsum_hallucination_annotations)] 
 
-12. FactCC: "**Evaluating the Factual Consistency of Abstractive Text Summarization**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+12. FactCC: "**Evaluating the Factual Consistency of Abstractive Text Summarization**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Wojciech Kryściński et al*. EMNLP 2020. [[Paper](https://arxiv.org/pdf/1910.12840.pdf)] [[GitHub](https://github.com/yuhui-zh15/FactCCX)] 
 
@@ -728,11 +732,11 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
     *Artidoro Pagnoni et al*. NAACL 2021. [[Paper](https://arxiv.org/pdf/2104.13346.pdf)] [[GitHub](https://github.com/artidoro/frank)] 
 
-15. SummaC: "**SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+15. SummaC: "**SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Philippe Laban et al*. TACL 2022. [[Paper](https://aclanthology.org/2022.tacl-1.10.pdf)] [[GitHub](https://github.com/tingofurro/summac/)] 
 
-16. "**Asking and Answering Questions to Evaluate the Factual Consistency of Summaries**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+16. "**Asking and Answering Questions to Evaluate the Factual Consistency of Summaries**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Alex Wang et al*. ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.450.pdf)] [[GitHub](https://github.com/W4ngatang/qags)] 
 
@@ -756,71 +760,71 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
     *Dandan Huang and Leyang Cui et al*. EMNLP 2020. [[Paper](https://aclanthology.org/2020.emnlp-main.33/)] [[GitHub](https://github.com/hddbang/PolyTope)] 
 
-22. FIB: "**Evaluating the Factual Consistency of Large Language Models Through News Summarization**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+22. FIB: "**Evaluating the Factual Consistency of Large Language Models Through News Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Derek Tam et al*. ACL (Findings) 2023. [[Paper](https://aclanthology.org/2023.findings-acl.322.pdf)] [[GitHub](https://github.com/r-three/fib)] 
 
-23. FacTool: "**FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+23. FacTool: "**FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *I-Chun Chern et al*. arXiv  2023. [[Paper](https://arxiv.org/pdf/2307.13528.pdf)] [[GitHub](https://github.com/GAIR-NLP/factool)] 
 
-24. FActScore: "**FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+24. FActScore: "**FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Sewon Min et al*. EMNLP 2023. [[Paper](https://arxiv.org/pdf/2305.14251.pdf)] [[GitHub](https://github.com/shmsw25/FActScore)] 
 
-25. SelfCheckGPT: "**SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+25. SelfCheckGPT: "**SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Potsawee Manakul et al*. EMNLP 2023. [[Paper](https://arxiv.org/pdf/2303.08896.pdf)] [[GitHub](https://github.com/potsawee/selfcheckgpt)] 
 
-26. SAPLMA: "**The Internal State of an LLM Knows When It's Lying**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+26. SAPLMA: "**The Internal State of an LLM Knows When It's Lying**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Amos Azaria et al*. arXiv  2023. [[Paper](https://arxiv.org/pdf/2304.13734.pdf)] 
 
-27. "**Teaching Models to Express Their Uncertainty in Words**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+27. "**Teaching Models to Express Their Uncertainty in Words**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Stephanie Lin et al*. arXiv  2022. [[Paper](https://arxiv.org/pdf/2205.14334.pdf)] 
 
-28. "**Language Models (Mostly) Know What They Know**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+28. "**Language Models (Mostly) Know What They Know**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Saurav Kadavath et al*. arXiv  2022. [[Paper](https://arxiv.org/pdf/2207.05221.pdf)] 
 
-29. "**Dialogue Natural Language Inference**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+29. "**Dialogue Natural Language Inference**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Sean Welleck et al*. ACL 2019. [[Paper](https://aclanthology.org/P19-1363.pdf)] 
 
-30. "**Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+30. "**Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Tobias Falke et al*. ACL 2019. [[Paper](https://aclanthology.org/P19-1213.pdf)] 
 
-31. "**mFACE: Multilingual Summarization with Factual Consistency Evaluation**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+31. "**mFACE: Multilingual Summarization with Factual Consistency Evaluation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Roee Aharoni et al*. arXiv 2022. [[Paper](https://arxiv.org/pdf/2212.10622.pdf)] 
 
-32. "**Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+32. "**Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Prasetya Ajie Utama et al*. NAACL 2022. [[Paper](https://aclanthology.org/2022.naacl-main.199.pdf)] [[GitHub](https://github.com/joshbambrick/Falsesum)] 
 
-33. "**Factually Consistent Summarization via Reinforcement Learning with Textual Entailment Feedback**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+33. "**Factually Consistent Summarization via Reinforcement Learning with Textual Entailment Feedback**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Paul Roit, Johan Ferret, and Lior Shani et al*. ACL 2023. [[Paper](https://arxiv.org/pdf/2306.00186.pdf)] 
 
-34. FEQA: "**FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+34. FEQA: "**FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Esin Durmus et al*. ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.454.pdf)] [[GitHub](https://github.com/esdurmus/feqa)] 
 
-35. QuestEval: "**QuestEval: Summarization Asks for Fact-based Evaluation**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+35. QuestEval: "**QuestEval: Summarization Asks for Fact-based Evaluation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Thomas Scialom et al*. EMNLP 2021. [[Paper](https://aclanthology.org/2021.emnlp-main.529.pdf)] [[GitHub](https://github.com/ThomasScialom/QuestEval)] 
 
-36. QAFactEval: "**QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+36. QAFactEval: "**QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Alexander R. Fabbri et al*. NAACL 2022. [[Paper](https://aclanthology.org/2022.naacl-main.187.pdf)] [[GitHub](https://github.com/salesforce/QAFactEval)] 
 
-37. FaithDial: "**FaithDial: A Faithful Benchmark for Information-Seeking Dialogue**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+37. FaithDial: "**FaithDial: A Faithful Benchmark for Information-Seeking Dialogue**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Nouha Dziri et al*. TACL 2022. [[Paper](https://arxiv.org/pdf/2204.10757.pdf)] [[GitHub](https://github.com/McGill-NLP/FaithDial)] 
 
-38. "**Towards Faithful Dialogues via Focus Learning**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+38. "**Towards Faithful Dialogues via Focus Learning**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Yifan Deng et al*. ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.250.pdf)] 
 
@@ -828,47 +832,47 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
 #### Robustness Evaluation
 
-1. PromptBench: **"PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts".** ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+1. PromptBench: **"PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts".** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Kaijie Zhu et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.04528.pdf)] [[Github](https://github.com/microsoft/promptbench)] 
 
-2. **"On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective".** ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+2. **"On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective".** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Jindong Wang et al.* ICLR 2023. [[Paper](https://openreview.net/pdf?id=uw6HSkgoM29)] [[Github](https://github.com/microsoft/robustlearn)] 
 
-3. RobuT: **"RobuT: A Systematic Study of Table QA Robustness Against Human-Annotated Adversarial Perturbations".** ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+3. RobuT: **"RobuT: A Systematic Study of Table QA Robustness Against Human-Annotated Adversarial Perturbations".** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Yilun Zhao et al.* ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.334.pdf)] [[Github](http://https: //github.com/yilunzhao/RobuT)] 
 
-4. SynTextBench: **"On Robustness-Accuracy Characterization of Large Language Models using Synthetic Datasets"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+4. SynTextBench: **"On Robustness-Accuracy Characterization of Large Language Models using Synthetic Datasets"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Ching-Yun Ko et al.* ICML 2023. [[Paper](https://openreview.net/pdf?id=yt3hnXNPfr)] 
 
-5. ReCode: "**ReCode: Robustness Evaluation of Code Generation Models**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+5. ReCode: "**ReCode: Robustness Evaluation of Code Generation Models**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Shiqi Wang et al.* ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.773.pdf)] [[Github](https://github.com/amazon-science/recode)] 
 
-6. "**Exploring the Robustness of Large Language Models for Solving Programming Problems**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+6. "**Exploring the Robustness of Large Language Models for Solving Programming Problems**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Atsushi Shirafuji* et al. arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.14583.pdf)] [[Github](https://github.com/ashirafj/aoj-formatted-problems)] 
 
-7. "**A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+7. "**A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Alessandro Stolfo et al.* ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.32.pdf)] [[Github](https://github.com/alestolfo/causal-math)] 
 
-8. DGSlow: **"White-Box Multi-Objective Adversarial Attack on Dialogue Generation".** ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+8. DGSlow: **"White-Box Multi-Objective Adversarial Attack on Dialogue Generation".** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Yufei Li et al.* ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.100.pdf)] [[Github](https://github.com/yul091/DGSlow.git)] 
 
-9. "**Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+9. "**Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Yi Liu et al.* arXiv 2023. [Paper] 
 
-10. MasterKey: "**MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+10. MasterKey: "**MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Gelei Deng et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.08715.pdf)] 
 
-11. JailBroken: "**Jailbroken: How Does LLM Safety Training Fail?**". ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+11. JailBroken: "**Jailbroken: How Does LLM Safety Training Fail?**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Alexander Wei* et al. NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2307.02483)] 
 
@@ -934,7 +938,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
 #### Biology and Medicine
 
-1. MultiMedQA: **"Large Language Models Encode Clinical Knowledge"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+1. MultiMedQA: **"Large Language Models Encode Clinical Knowledge"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
    *Karan Singhal, Shekoofeh Azizi and Tao Tu et al.* arXiv 2022. [[Paper](https://arxiv.org/abs/2212.13138)] 
 
@@ -950,19 +954,19 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
    *Travis R. Goodwin et al.* arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14377)] 
 
-5. **"Towards Expert-Level Medical Question Answering with Large Language Models"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+5. **"Towards Expert-Level Medical Question Answering with Large Language Models"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
    *Karan Singhal, Tao Tu, Juraj Gottweis and Rory Sayres et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2305.09617)] 
 
-6. **"Performance of ChatGPT on USMLE: Unlocking the Potential of Large Language Models for AI-Assisted Medical Education"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+6. **"Performance of ChatGPT on USMLE: Unlocking the Potential of Large Language Models for AI-Assisted Medical Education"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
    *Prabin Sharma et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2307.00112)] 
 
-7. **"Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+7. **"Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *John W. Ayers et al.* JAMA Internal Medicine 2023. [[Paper](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2804309)] 
 
-8. **"Evaluating large language models on medical evidence summarization"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+8. **"Evaluating large language models on medical evidence summarization"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
    *Liyan Tang et al.* npj Digital Medicine 2023. [[Paper](https://www.nature.com/articles/s41746-023-00896-7)] 
 
@@ -1002,7 +1006,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
 #### Legislation
 
-1. **"GPT-4 Passes the Bar Exam"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+1. **"GPT-4 Passes the Bar Exam"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
    *Daniel Martin Katz et al*. SSRN 2023. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389233)] [[GitHub](https://github.com/mjbommar/gpt4-passes-the-bar)] 
 
@@ -1010,23 +1014,23 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
    *Ha-Thanh Nguyen et al*. ICLP 2023. [[Paper](https://ceur-ws.org/Vol-3437/paper1LPLR.pdf)] 
 
-3. **"GPT Takes the Bar Exam"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+3. **"GPT Takes the Bar Exam"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
    *Michael Bommarito II et al*. arXiv 2022. [[Paper](https://arxiv.org/abs/2212.14402)] 
 
-4. **"GPT-4 Passes the Bar Exam"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+4. **"GPT-4 Passes the Bar Exam"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Daniel Martin Katz et al*. SSRN 2023. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389233)] [[GitHub](https://github.com/mjbommar/gpt4-passes-the-bar)] 
 
-5. **"ChatGPT Goes to Law School"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+5. **"ChatGPT Goes to Law School"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
    *Jonathan H. Choi et al*. SSRN 2023. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335905)] 
 
-6. **"Explaining Legal Concepts with Augmented Large Language Models (GPT-4)"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+6. **"Explaining Legal Concepts with Augmented Large Language Models (GPT-4)"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
    *Jaromir Savelka et al*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.09525.pdf)]
 
-7. **"How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgement Summarization?"**. ![](https://img.shields.io/badge/Evaluation%2520Method-orange)![](https://img.shields.io/badge/Rearch-green)
+7. **"How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgement Summarization?"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
    *Aniket Deroy et al*. LegalAIIA 2023. [[Paper](https://ceur-ws.org/Vol-3423/paper2.pdf)] 
 
@@ -1138,7 +1142,7 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
 5. Huggingface Open LLM Leaderboard [[Source](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
-6. Chatbot Arena: **"Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)![](https://img.shields.io/badge/Evaluation%2520Method-orange)
+6. Chatbot Arena: **"Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Lianmin Zheng et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.05685.pdf)] [[Source](https://chat.lmsys.org/?arena)] [[GitHub](http://https:  //github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)] 
 
