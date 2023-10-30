@@ -4,17 +4,17 @@
 
 The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.
 
-#### <center>Evaluating Large Language Models: A Comprehensive Survey</center>
+#### <p align="center">Evaluating Large Language Models: A Comprehensive Survey</p>
 
-<center>Zishan Guo*,   Renren Jin*,   Chuang Liu*,   Yufei Huang,   Dan Shi,   Supryadi, </center>
+<p align="center">Zishan Guo*,   Renren Jin*,   Chuang Liu*,   Yufei Huang,   Dan Shi,   Supryadi, </p>
 
-<center>Linhao Yu,   Yan Liu,   Jiaxuan Li,   Bojian Xiong,   Deyi Xiong†</center>
+<p align="center">Linhao Yu,   Yan Liu,   Jiaxuan Li,   Bojian Xiong,   Deyi Xiong†</p>
 
-<center>Tianjin University</center>
+<p align="center">Tianjin University</p>
 
-<center>(*: Co-first authors, †: Corresponding author)</center>
+<p align="center">(*: Co-first authors, †: Corresponding author)</p>
 
-<img src=".\imgs\Figure_1.png" style="zoom:30%">
+<img src="./imgs/Figure_1.png" style="zoom:30%">
 
 
 
@@ -46,53 +46,53 @@ This paper examines the performance of LLMs in a particular domain.![](https://i
 
 ## Table of Contents
 
-* [Updates](#Updates)
-* [Survey Introduction](#Survey Introduction)
-  * [Keywords Convention](#Keywords Convention)
-* [Table of Contents](#Table of Contents)
+* [Updates](#updates)
+* [Survey Introduction](#survey-introduction)
+  * [Keywords Convention](#keywords-convention)
+* [Table of Contents](#table-of-contents)
   
-* [Related Surveys for LLMs Evaluation](#Related Surveys for LLMs Evaluation)
+* [Related Surveys for LLMs Evaluation](#related-surveys-for-LLMs-evaluation)
   
-* [Papers](#Papers)
-  * [Knowledge and Capability Evaluation](#Knowledge and Capability Evaluation)
-    * [Question Answering](#Question Answering)
-      * [Knowledge Completion](#Knowledge Completion)
-      * [Reasoning](#Reasoning)
-        * [Commonsense Reasoning](#Commonsense Reasoning)
-      * [Logical Reasoning](#Logical Reasoning)
-        * [Multi-hop Reasoning](#Multi-hop Reasoning)
-      * [Mathematical Reasoning](#Mathematical Reasoning)
+* [Papers](#papers)
+  * [Knowledge and Capability Evaluation](#knowledge-and-capability-evaluation)
+    * [Question Answering](#question-answering)
+      * [Knowledge Completion](#knowledge-completion)
+      * [Reasoning](#reasoning)
+        * [Commonsense Reasoning](#commonsense-reasoning)
+      * [Logical Reasoning](#logical-reasoning)
+        * [Multi-hop Reasoning](#multi-hop-reasoning)
+      * [Mathematical Reasoning](#mathematical-reasoning)
     
-      * [Tool Learning](#Tool Learning)
+      * [Tool Learning](#tool-learning)
     
-    * [Alignment Evaluation](#Alignment Evaluation)
-    * [Ethics and Morality](#Ethics and Morality)
-      * [Bias](#Bias)
-      * [Toxicity](#Toxicity)
-      * [Truthfulness](#Truthfulness)
+    * [Alignment Evaluation](#alignment-evaluation)
+    * [Ethics and Morality](#ethics-and-morality)
+      * [Bias](#bias)
+      * [Toxicity](#toxicity)
+      * [Truthfulness](#truthfulness)
     
-  * [Safety Evaluation](#Safety Evaluation)
-      * [Robustness](#Robustness)
-      * [Risk Evaluation](#Risk Evaluation)
-        * [Evaluating LLMs Behaviors](#Evaluating LLMs Behaviors)
-        * [Evaluating LLMs as Agents](#Evaluating LLMs as Agents)
+  * [Safety Evaluation](#safety-evaluation)
+      * [Robustness](#robustness)
+      * [Risk Evaluation](#risk-evaluation)
+        * [Evaluating LLMs Behaviors](#evaluating-llms-behaviors)
+        * [Evaluating LLMs as Agents](#evaluating-llms-as-agents)
       
-  * [Specialized LLMs Evaluation](#Specialized LLMs Evaluation)
-    * [Biology and Medicine](#Biology and Medicine)
-      * [Education](#Education)
-      * [Legislation](#Legislation)
-      * [Computer Science](#Computer Science)
-      * [Finance](#Finance)
+  * [Specialized LLMs Evaluation](#specialized-llms-evaluation)
+    * [Biology and Medicine](#biology-and-medicine)
+      * [Education](#education)
+      * [Legislation](#legislation)
+      * [Computer Science](#computer-science)
+      * [Finance](#finance)
     
-    * [Evaluation Organization](#Evaluation Organization)
+    * [Evaluation Organization](#evaluation-organization)
     
-    * [Benchmarks for NLU and NLG](#Benchmarks for NLU and NLG)
-      * [Benchmarks for Knowledge and Reasoning](#Benchmarks for Knowledge and Reasoning)
-    * [Benchmark for Holistic Evaluation](#Benchmark for Holistic Evaluation)
+    * [Benchmarks for NLU and NLG](#benchmarks-for-NLU-and-nlg)
+      * [Benchmarks for Knowledge and Reasoning](#benchmarks-for-knowledge-and-reasoning)
+    * [Benchmark for Holistic Evaluation](#benchmark-for-holistic-evaluation)
     
-  * [LLM Leaderboards](#LLM Leaderboards)
+  * [LLM Leaderboards](#llm-leaderboards)
   
-  * [Contributors](#Contributors)
+  * [Contributors](#contributors)
 
 ## Related Surveys for LLMs Evaluation
 
