@@ -2,7 +2,7 @@
 
 # Awesome LLMs Evaluation Papers :bookmark_tabs:
 
-The papers are organized according to our survey:
+The papers are organized according to [our survey](https://arxiv.org/pdf/2310.19736.pdf):
 
 <p align="center"><strong>Evaluating Large Language Models: A Comprehensive Survey</strong></p>
 
@@ -21,7 +21,7 @@ The papers are organized according to our survey:
 
 ## Contributing to this paper list
 
-Feel free to open an issue/PR or e-mail [guozishan@tju.edu.cn](mailto:guozishan@tju.edu.cn), [rrjin@tju.edu.cn](mailto:rrjin@tju.edu.cn), [liuc_09@tju.edu.cn](mailto:liuc_09@tju.edu.cn) and [dyxiong@tju.edu.cn](mailto:dyxiong@tju.edu.cn) if you find any missing areas, papers, or datasets. We will keep updating this list and survey.
+Feel free to **open an issue/PR** or e-mail [guozishan@tju.edu.cn](mailto:guozishan@tju.edu.cn), [rrjin@tju.edu.cn](mailto:rrjin@tju.edu.cn), [liuc_09@tju.edu.cn](mailto:liuc_09@tju.edu.cn) and [dyxiong@tju.edu.cn](mailto:dyxiong@tju.edu.cn) if you find any missing areas, papers, or datasets. We will keep updating this list and survey.
 
 ## Updates
 
@@ -133,6 +133,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 6. DuReader: **"Dureader_robust: A chinese dataset towards evaluating robustness and generalization of machine reading comprehension in real-world applications".** ![](https://img.shields.io/badge/Dataset-blue)
 
    *Hongxuan Tang et al.* NAACL-HLT 2019. [[Paper](https://arxiv.org/pdf/2004.11142.pdf)] [[Github](https://github.com/baidu/DuReader)]  
+
+7. RAGAS: **"RAGAS: Automated Evaluation of Retrieval Augmented Generation"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+   *Shahul Es et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2309.15217.pdf)] [[Github](https://github.com/explodinggradients/ragas/tree/main)]  
 
 #### Knowledge Completion
 
@@ -416,7 +420,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Qiantong Xu* *et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2305.16504)] 
 
-15. **"Tool Learning with Foundation Models"**. ![](https://img.shields.io/badge/Dataset-blue)
+15. **"Tool Learning with Foundation Models"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
 
     *Yujia Qin* *et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2304.08354)] [[GitHub](https://github.com/OpenBMB/BMTools)] 
 
@@ -435,10 +439,6 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 19. Code as Policies: **"Code as Policies: Language Model Programs for Embodied Control"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Jacky Liang et al.* ICRA 2023. [[Paper](https://arxiv.org/abs/2209.07753)] [[GitHub](https://github.com/google-research/google-research/tree/master/code_as_policies)] 
-
-20. **"Tool Learning with Foundation Models"**. ![](https://img.shields.io/badge/Rearch-green)
-
-    *Yujia Qin* *et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2304.08354)] [[GitHub](https://github.com/OpenBMB/BMTools)] 
 
 21. **"Augmented Language Models: a Survey"**. ![](https://img.shields.io/badge/Rearch-green)
 
@@ -894,9 +894,9 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
    *Lukas Fluri et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2306.09983)] 
 
-3. **"Understanding Social Reasoning in Language Models with Language Models"**.  [[Paper](https://arxiv.org/abs/2306.15448)] ![](https://img.shields.io/badge/Dataset-blue)
+3. **"Understanding Social Reasoning in Language Models with Language Models"**. ![](https://img.shields.io/badge/Dataset-blue)
 
-   *Kanishk Gandhi et al.* arXiv 2023.
+   *Kanishk Gandhi et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2306.15448)] 
 
 4. **"Towards the Scalable Evaluation of Cooperativeness in Language Models"**. ![](https://img.shields.io/badge/Dataset-blue)
 
@@ -992,7 +992,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 3. **"Learning gain differences between ChatGPT and human tutor generated algebra hints"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
 
-   *Zachary A. Pardos et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2302.06871)] 
+   *Zachary A. Pardos et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2302.06871)] [[GitHub](https://cahlr.github.io/OATutor-LLM-Studies/#/)] 
 
 4. **"Can Large Language Models Provide Feedback to Students? A Case Study on ChatGPT"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
 
@@ -1006,15 +1006,11 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 2. L’ART: **"How well do SOTA legal reasoning models support abductive reasoning?"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
 
-   *Ha-Thanh Nguyen et al*. ICLP 2023. [[Paper](https://ceur-ws.org/Vol-3437/paper1LPLR.pdf)] 
+   *Ha-Thanh Nguyen et al*. ICLP 2023. [[Paper](https://arxiv.org/pdf/2304.06912.pdf)] 
 
 3. **"GPT Takes the Bar Exam"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
-   *Michael Bommarito II et al*. arXiv 2022. [[Paper](https://arxiv.org/abs/2212.14402)] 
-
-4. **"GPT-4 Passes the Bar Exam"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
-
-   *Daniel Martin Katz et al*. SSRN 2023. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389233)] [[GitHub](https://github.com/mjbommar/gpt4-passes-the-bar)] 
+   *Michael Bommarito II et al*. arXiv 2022. [[Paper](https://arxiv.org/abs/2212.14402)] [[GitHub](https://github.com/mjbommar/gpt-takes-the-bar-exam)]
 
 5. **"ChatGPT Goes to Law School"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
@@ -1026,7 +1022,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 7. **"How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgement Summarization?"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
-   *Aniket Deroy et al*. LegalAIIA 2023. [[Paper](https://ceur-ws.org/Vol-3423/paper2.pdf)] 
+   *Aniket Deroy et al*. LegalAIIA 2023. [[Paper](https://arxiv.org/pdf/2306.01248.pdf)] 
 
 8. **"Legal Prompting: Teaching a Language Model to Think Like a Lawyer"**. ![](https://img.shields.io/badge/Rearch-green)
 
@@ -1040,15 +1036,15 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 1. **"A Systematic Evaluation of Large Language Models of Code"**. ![](https://img.shields.io/badge/Rearch-green)
 
-   *Xu, Frank F et al.* Proceedings of the 6th ACM SIGPLAN International Symposium on Machine Programming 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3520312.3534862)] [[Github](https://github.com/EleutherAI/gpt-neox)] 
+   *Xu, Frank F et al.* DL4C@ICLR 2022. [[Paper](https://arxiv.org/pdf/2202.13169.pdf)] [[Github](https://github.com/VHellendoorn/Code-LMs)] 
 
 2. **"Is your code generated by chatgpt really correct? rigorous evaluation of large language models for code generation"**. ![](https://img.shields.io/badge/Rearch-green)
 
    *Liu J et al.* arXiv 2023. [[paper](https://arxiv.org/pdf/2305.01210.pdf)] [[Github](https://github.com/evalplus/evalplus)] 
 
-3. **"Lost at c: A user study on the security implications of large language model code assistants"**. ![](https://img.shields.io/badge/Rearch-green)
+3. **"Lost at C: A user study on the security implications of large language model code assistants"**. ![](https://img.shields.io/badge/Rearch-green)
 
-   *Sandoval G et al.* arXiv 2023. [[paper](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)] 
+   *Sandoval G et al.* arXiv 2023. [[paper](https://arxiv.org/pdf/2208.09727.pdf)] 
 
 #### Finance
 
@@ -1058,7 +1054,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 2. **"FinBERT: A large language model for extracting information from financial text"**. ![](https://img.shields.io/badge/Rearch-green)
 
-   *Huang A H et al.* Contemporary Accounting Research 2023. [[Paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1911-3846.12832?casa_token=ZD0URQvHzU0AAAAA:3w_6iST0rBVJGdi66TU__N7--lLqjMe3qP0LDUY2zZl10ZLgfVAPt7dVPAJiEdlqi68iQXWzz-x0Jpw)] 
+   *Huang A H et al.* Contemporary Accounting Research 2023. [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1911-3846.12832)] 
 
 3. **"ChatGPT: Unlocking the future of NLP in finance"**. ![](https://img.shields.io/badge/Rearch-green)
 
@@ -1171,3 +1167,4 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 <a href="https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tjunlp-lab/Awesome-LLMs-Evaluation-Papers" />
 </a>
+
