@@ -818,10 +818,6 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Nouha Dziri et al*. TACL 2022. [[Paper](https://arxiv.org/pdf/2204.10757.pdf)] [[GitHub](https://github.com/McGill-NLP/FaithDial)] 
 
-38. "**Towards Faithful Dialogues via Focus Learning**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
-
-    *Yifan Deng et al*. ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.250.pdf)] 
-
 ### :closed_lock_with_key:Safety Evaluation
 
 #### Robustness Evaluation
