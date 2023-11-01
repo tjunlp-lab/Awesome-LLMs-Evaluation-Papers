@@ -1028,6 +1028,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
    *AndrewBlair-Stanek et al*. ICAIL 2023. [[Paper](https://arxiv.org/pdf/2302.06100.pdf)] [[GitHub](https://github.com/BlairStanek/gpt-statutes)] 
 
+9. LawBench: **"LawBench: Benchmarking Legal Knowledge of Large Language Models"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
+
+   *Zhiwei Fei, Xiaoyu Shen and Dawei Zhu et al.*  [[Paper](https://arxiv.org/pdf/2309.16289.pdf)] [[GitHub](https://github.com/open-compass/LawBench)] 
+
 #### Computer Science
 
 1. **"A Systematic Evaluation of Large Language Models of Code"**. ![](https://img.shields.io/badge/Rearch-green)
@@ -1122,27 +1126,31 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 3. HELM: **"Holistic Evaluation of Language Models"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
-   *Yuzhen Huang et al. arXiv* 2023. [[Paper](https://arxiv.org/pdf/2211.09110.pdf)] [[Source](https://crfm.stanford.edu/helm/v0.1.0)] [[GitHub](https://github.com/stanford-crfm/helm)] 
+   *Yuzhen Huang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2211.09110.pdf)] [[Source](https://crfm.stanford.edu/helm/v0.1.0)] [[GitHub](https://github.com/stanford-crfm/helm)] 
 
 4. OpenAI Evals [[GitHub](https://github.com/openai/evals)] ![](https://img.shields.io/badge/Dataset-blue)
 
-5. Huggingface Open LLM Leaderboard [[Source](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+5. GPT-Fathom: **"GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
 
-6. Chatbot Arena: **"Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)![](https://img.shields.io/badge/Evaluation%20Method-orange)
+   *Shen Zheng and Yuyu Zhang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2309.16583.pdf)] [[GitHub](https://github.com/GPT-Fathom/GPT-Fathom)] 
+
+6. Huggingface Open LLM Leaderboard [[Source](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+
+7. Chatbot Arena: **"Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Lianmin Zheng et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.05685.pdf)] [[Source](https://chat.lmsys.org/?arena)] [[GitHub](http://https:  //github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)] 
 
-7. FlagEval [[Source](https://flageval.baai.ac.cn/)] [[GitHub](https://github.com/FlagOpen/FlagEval)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+8. FlagEval [[Source](https://flageval.baai.ac.cn/)] [[GitHub](https://github.com/FlagOpen/FlagEval)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
-8. OpenCompass: **"Evaluating the Generation Capabilities of Large Chinese Language Models"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+9. OpenCompass: **"Evaluating the Generation Capabilities of Large Chinese Language Models"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
    *Yuan Liu et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.06281.pdf)] [[Source](https://opencompass.org.cn/)] [[GitHub](https://github.com/open-compass/opencompass)] 
 
-9. CLEVA: **"CLEVA: Chinese Language Models EVAluation Platform"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+10. CLEVA: **"CLEVA: Chinese Language Models EVAluation Platform"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
    *Yanyang Li et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2308.04813.pdf)] [[Source](http://www.lavicleva.com/)] [[GitHub](https://github.com/LaVi-Lab/CLEVA)] 
 
-10. OpenEval (Coming soon) ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+11. OpenEval (Coming soon) ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
 ## LLM Leaderboards
 
