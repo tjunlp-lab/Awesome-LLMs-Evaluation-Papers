@@ -638,6 +638,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Anna Schmidt et al.* SocialNLP 2017. [[Paper](https://aclanthology.org/W17-1101/)] 
 
+36. "**Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
+
+    *Terry Yue Zhuo* et al. arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12867)]
+
 #### Toxicity
 
 1. OLID: "**Predicting the Type and Target of Offensive Posts in Social Media".** ![](https://img.shields.io/badge/Dataset-blue)
@@ -667,6 +671,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 7. **"Toxicity in ChatGPT: Analyzing Persona-assigned Language Models"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
    *Ameet Deshpande et al.* arXiv 2023 [[Paper](https://arxiv.org/pdf/2304.05335.pdf)] 
+
+8. "**Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
+
+    *Terry Yue Zhuo* et al. arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12867)]
 
 #### Truthfulness
 
@@ -866,7 +874,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Alexander Wei* et al. NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2307.02483)] 
 
-12. "**Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+12. "**Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
     *Terry Yue Zhuo* et al. arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12867)]
     
