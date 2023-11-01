@@ -455,7 +455,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
    
 3. **"Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models."** ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
 
-   *Jingyuan S. She et al.* ACL (Findings) 2023 [[Paper](https://aclanthology.org/2023.findings-acl.472.pdf)][[Github](https://github.com/yuhui-zh15/NeQA)]
+   *Yuhui Zhang al.* ACL (Findings) 2023 [[Paper](https://aclanthology.org/2023.findings-acl.472.pdf)][[Github](https://github.com/yuhui-zh15/NeQA)]
    
 4. **"Say What You Mean! Large Language Models Speak Too Positively about Negative Commonsense Knowledge."** ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
 
