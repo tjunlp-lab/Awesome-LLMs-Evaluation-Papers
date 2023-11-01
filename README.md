@@ -70,7 +70,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
         * [Truthfulness](#truthfulness)
    
     * [Safety Evaluation](#closed_lock_with_keysafety-evaluation)
-        * [Robustness](#robustness)
+        * [Robustness Evaluation](#robustness-evaluation)
         * [Risk Evaluation](#risk-evaluation)
             * [Evaluating LLMs Behaviors](#evaluating-llms-behaviors)
             * [Evaluating LLMs as Agents](#evaluating-llms-as-agents)
