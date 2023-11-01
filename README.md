@@ -866,6 +866,14 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Alexander Wei* et al. NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2307.02483)] 
 
+12. "**Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Terry Yue Zhuo* et al. arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12867)]
+    
+13. "**On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Terry Yue Zhuo* et al. EACL 2023. [[Paper](https://aclanthology.org/2023.eacl-main.77/)]
+    
 #### Risk Evaluation
 
 1. **"Frontier AI Regulation: Managing Emerging Risks to Public Safety"**. ![](https://img.shields.io/badge/Dataset-blue)
