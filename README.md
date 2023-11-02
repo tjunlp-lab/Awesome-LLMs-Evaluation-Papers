@@ -801,6 +801,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 24. CONNER: "**Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Liang Chen et al*. EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.07289)] [[GitHub](https://github.com/chanliang/conner)]  
+
 25. FActScore: "**FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Sewon Min et al*. EMNLP 2023. [[Paper](https://arxiv.org/pdf/2305.14251.pdf)] [[GitHub](https://github.com/shmsw25/FActScore)] 
