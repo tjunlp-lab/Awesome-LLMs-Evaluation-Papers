@@ -443,6 +443,35 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Grégoire Mialon et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)] 
 
+#### Negation
+1. **"Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly."** ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+   *Nora Kassner et al.* ACL 2020 [[Paper](https://aclanthology.org/2020.acl-main.698.pdf)][[Github](https://github.com/norakassner/LAMA)]
+
+2. **"UnCommonSense: Informative Negative Knowledge about Everyday Concepts."** ![](https://img.shields.io/badge/Dataset-blue)
+
+   *Hiba Arnaout et al.* CIKM 2022 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557484)][[Database](https://uncommonsense.mpi-inf.mpg.de/)]
+   
+3. **"Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models."** ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
+
+   *Yuhui Zhang al.* ACL (Findings) 2023 [[Paper](https://aclanthology.org/2023.findings-acl.472.pdf)][[Github](https://github.com/yuhui-zh15/NeQA)]
+   
+4. **"Say What You Mean! Large Language Models Speak Too Positively about Negative Commonsense Knowledge."** ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
+
+   *Jiangjie Chen et al.* ACL 2023 [[Paper](https://aclanthology.org/2023.acl-long.550.pdf)][[Github](https://github.com/jiangjiechen/uncommongen)]
+
+5. **"ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning."** ![](https://img.shields.io/badge/Dataset-blue)
+
+   *Jingyuan S. She et al.* ACL 2023 [[Paper](https://aclanthology.org/2023.acl-short.154.pdf)][[Github](https://github.com/selenashe/ScoNe)]
+
+6. **"A negation detection assessment of GPTs: analysis with the xNot360 dataset."** ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
+
+   *Ha Thanh Nguyen et al.* arXiv 2023 [[Paper](https://arxiv.org/pdf/2306.16638.pdf)][[Dataset](https://huggingface.co/datasets/nguyenthanhasia/xNot360)]
+
+7. **"This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models."** ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
+
+   *Iker García-Ferrero et al.* EMNLP 2023 [[Paper](https://arxiv.org/pdf/2310.15941.pdf)][[Dataset](https://huggingface.co/datasets/HiTZ/This-is-not-a-dataset)][[Github](https://github.com/hitz-zentroa/This-is-not-a-Dataset)]
+
 ### :triangular_ruler:Alignment Evaluation
 
 #### Ethics and Morality
