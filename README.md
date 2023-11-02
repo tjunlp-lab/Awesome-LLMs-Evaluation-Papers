@@ -796,61 +796,64 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 23. FacTool: "**FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *I-Chun Chern et al*. arXiv  2023. [[Paper](https://arxiv.org/pdf/2307.13528.pdf)] [[GitHub](https://github.com/GAIR-NLP/factool)] 
+    *I-Chun Chern et al*. arXiv  2023. [[Paper](https://arxiv.org/pdf/2307.13528.pdf)] [[GitHub](https://github.com/GAIR-NLP/factool)]
+  
+24. CONNER: "**Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-24. FActScore: "**FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+    *Liang Chen et al*. EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.07289)] [[GitHub](https://github.com/chanliang/conner)]  
+25. FActScore: "**FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Sewon Min et al*. EMNLP 2023. [[Paper](https://arxiv.org/pdf/2305.14251.pdf)] [[GitHub](https://github.com/shmsw25/FActScore)] 
 
-25. SelfCheckGPT: "**SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+26. SelfCheckGPT: "**SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Potsawee Manakul et al*. EMNLP 2023. [[Paper](https://arxiv.org/pdf/2303.08896.pdf)] [[GitHub](https://github.com/potsawee/selfcheckgpt)] 
 
-26. SAPLMA: "**The Internal State of an LLM Knows When It's Lying**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+27. SAPLMA: "**The Internal State of an LLM Knows When It's Lying**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Amos Azaria et al*. arXiv  2023. [[Paper](https://arxiv.org/pdf/2304.13734.pdf)] 
 
-27. "**Teaching Models to Express Their Uncertainty in Words**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+28. "**Teaching Models to Express Their Uncertainty in Words**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Stephanie Lin et al*. arXiv  2022. [[Paper](https://arxiv.org/pdf/2205.14334.pdf)] 
 
-28. "**Language Models (Mostly) Know What They Know**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+29. "**Language Models (Mostly) Know What They Know**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Saurav Kadavath et al*. arXiv  2022. [[Paper](https://arxiv.org/pdf/2207.05221.pdf)] 
 
-29. "**Dialogue Natural Language Inference**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+30. "**Dialogue Natural Language Inference**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Sean Welleck et al*. ACL 2019. [[Paper](https://aclanthology.org/P19-1363.pdf)] 
 
-30. "**Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+31. "**Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Tobias Falke et al*. ACL 2019. [[Paper](https://aclanthology.org/P19-1213.pdf)] 
 
-31. "**mFACE: Multilingual Summarization with Factual Consistency Evaluation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+32. "**mFACE: Multilingual Summarization with Factual Consistency Evaluation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Roee Aharoni et al*. arXiv 2022. [[Paper](https://arxiv.org/pdf/2212.10622.pdf)] 
 
-32. "**Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+33. "**Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Prasetya Ajie Utama et al*. NAACL 2022. [[Paper](https://aclanthology.org/2022.naacl-main.199.pdf)] [[GitHub](https://github.com/joshbambrick/Falsesum)] 
 
-33. "**Factually Consistent Summarization via Reinforcement Learning with Textual Entailment Feedback**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+34. "**Factually Consistent Summarization via Reinforcement Learning with Textual Entailment Feedback**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Paul Roit, Johan Ferret, and Lior Shani et al*. ACL 2023. [[Paper](https://arxiv.org/pdf/2306.00186.pdf)] 
 
-34. FEQA: "**FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+35. FEQA: "**FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Esin Durmus et al*. ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.454.pdf)] [[GitHub](https://github.com/esdurmus/feqa)] 
 
-35. QuestEval: "**QuestEval: Summarization Asks for Fact-based Evaluation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+36. QuestEval: "**QuestEval: Summarization Asks for Fact-based Evaluation**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Thomas Scialom et al*. EMNLP 2021. [[Paper](https://aclanthology.org/2021.emnlp-main.529.pdf)] [[GitHub](https://github.com/ThomasScialom/QuestEval)] 
 
-36. QAFactEval: "**QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+37. QAFactEval: "**QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Alexander R. Fabbri et al*. NAACL 2022. [[Paper](https://aclanthology.org/2022.naacl-main.187.pdf)] [[GitHub](https://github.com/salesforce/QAFactEval)] 
 
-37. FaithDial: "**FaithDial: A Faithful Benchmark for Information-Seeking Dialogue**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+38. FaithDial: "**FaithDial: A Faithful Benchmark for Information-Seeking Dialogue**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Nouha Dziri et al*. TACL 2022. [[Paper](https://arxiv.org/pdf/2204.10757.pdf)] [[GitHub](https://github.com/McGill-NLP/FaithDial)] 
 
