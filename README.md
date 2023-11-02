@@ -796,7 +796,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 23. FacTool: "**FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *I-Chun Chern et al*. arXiv  2023. [[Paper](https://arxiv.org/pdf/2307.13528.pdf)] [[GitHub](https://github.com/GAIR-NLP/factool)]
+    *I-Chun Chern et al*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.13528.pdf)] [[GitHub](https://github.com/GAIR-NLP/factool)]
   
 24. CONNER: "**Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
