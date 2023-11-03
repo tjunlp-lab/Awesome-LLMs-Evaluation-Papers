@@ -977,9 +977,9 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Megan Kinniment et al.* ARC Evals. [[Paper](https://evals.alignment.org/Evaluating_LMAs_Realistic_Tasks.pdf)] 
 
-6. **"MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback"** ![](https://img.shields.io/badge/Evaluation%20Method-orange) ![](https://img.shields.io/badge/Dataset-blue)
+6. MINT: **"MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback"** ![](https://img.shields.io/badge/Evaluation%20Method-orange) ![](https://img.shields.io/badge/Dataset-blue)
 
-   *Xingyao Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2309.10691)] [[Website & Leaderboard](https://xingyaoww.github.io/mint-bench/)]
+   *Xingyao Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2309.10691)] [[Github](https://github.com/xingyaoww/mint-bench)] [[Website & Leaderboard](https://xingyaoww.github.io/mint-bench/)]
 
 ### :syringe::woman_judge::computer::moneybag:Specialized LLMs Evaluation
 
