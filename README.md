@@ -858,9 +858,9 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Nouha Dziri et al*. TACL 2022. [[Paper](https://arxiv.org/pdf/2204.10757.pdf)] [[GitHub](https://github.com/McGill-NLP/FaithDial)]
 
-38. "**How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+39. "**How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *Lorenzo Pacchiardi, Alex J. Chan et al*. Arxiv 2023 [[Paper](https://arxiv.org/abs/2309.15840)]  [[GitHub](https://github.com/LoryPack/LLM-LieDetector)]
+    *Lorenzo Pacchiardi, Alex J. Chan et al*. arXiv 2023 [[Paper](https://arxiv.org/abs/2309.15840)]  [[GitHub](https://github.com/LoryPack/LLM-LieDetector)]
 
 ### :closed_lock_with_key:Safety Evaluation
 
