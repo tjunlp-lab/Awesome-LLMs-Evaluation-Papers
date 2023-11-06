@@ -812,15 +812,15 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 27. SAPLMA: "**The Internal State of an LLM Knows When It's Lying**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *Amos Azaria et al*. arXiv  2023. [[Paper](https://arxiv.org/pdf/2304.13734.pdf)] 
+    *Amos Azaria et al*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2304.13734.pdf)] 
 
 28. "**Teaching Models to Express Their Uncertainty in Words**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *Stephanie Lin et al*. arXiv  2022. [[Paper](https://arxiv.org/pdf/2205.14334.pdf)] 
+    *Stephanie Lin et al*. arXiv 2022. [[Paper](https://arxiv.org/pdf/2205.14334.pdf)] 
 
 29. "**Language Models (Mostly) Know What They Know**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *Saurav Kadavath et al*. arXiv  2022. [[Paper](https://arxiv.org/pdf/2207.05221.pdf)] 
+    *Saurav Kadavath et al*. arXiv 2022. [[Paper](https://arxiv.org/pdf/2207.05221.pdf)] 
 
 30. "**Dialogue Natural Language Inference**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
@@ -860,7 +860,15 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 39. "**How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *Lorenzo Pacchiardi, Alex J. Chan et al*. arXiv 2023 [[Paper](https://arxiv.org/abs/2309.15840)]  [[GitHub](https://github.com/LoryPack/LLM-LieDetector)]
+    *Lorenzo Pacchiardi and Alex J. Chan et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2309.15840)]  [[GitHub](https://github.com/LoryPack/LLM-LieDetector)]
+
+40. "**Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Fuxiao Liu et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2306.14565)] [[GitHub](https://github.com/FuxiaoLiu/LRV-Instruction)]
+
+41. "**HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models**". ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
+    *Fuxiao Liu and Tianrui Guan et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2310.14566)] [[GitHub](https://github.com/tianyi-lab/HallusionBench)]
+
 
 ### :closed_lock_with_key:Safety Evaluation
 
