@@ -893,7 +893,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 3. RobuT: **"RobuT: A Systematic Study of Table QA Robustness Against Human-Annotated Adversarial Perturbations".** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *Yilun Zhao et al.* ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.334.pdf)] [[Github](http://https: //github.com/yilunzhao/RobuT)] 
+    *Yilun Zhao et al.* ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.334.pdf)] [[Github](http://https://github.com/yilunzhao/RobuT)] 
 
 4. SynTextBench: **"On Robustness-Accuracy Characterization of Large Language Models using Synthetic Datasets"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
@@ -1216,7 +1216,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 7. Chatbot Arena: **"Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *Lianmin Zheng et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.05685.pdf)] [[Source](https://chat.lmsys.org/?arena)] [[GitHub](http://https:  //github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)] 
+    *Lianmin Zheng et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.05685.pdf)] [[Source](https://chat.lmsys.org/?arena)] [[GitHub](http://https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)] 
 
 8. FlagEval [[Source](https://flageval.baai.ac.cn/)] [[GitHub](https://github.com/FlagOpen/FlagEval)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
