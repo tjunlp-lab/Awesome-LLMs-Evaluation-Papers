@@ -1241,7 +1241,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 | AgentBench                             | [[Source](https://llmbench.ai/agent)]                                                  |
 | AlpacaEval                             | [[Source](https://tatsu-lab.github.io/alpaca_eval/)]                                   |
 | ANGO                                   | [[Source](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard)]                      |
-| Chatbot Arena                          | [[Source](https://chat.lmsys.org/?arena)]                                              |
+| Chatbot Arena                          | [[Source](https://chat.lmsys.org/)]                                              |
 | CLEVA                                  | [[Source](http://www.lavicleva.com/)]                                                  |
 | C-Eval                                 | [[Source](https://cevalbenchmark.com/)]                                                |
 | FlagEval                               | [[Source](https://flageval.baai.ac.cn/)]                                               |
