@@ -17,7 +17,16 @@ The papers are organized according to [our survey](https://arxiv.org/pdf/2310.19
 <div align=center>
     <img src="./imgs/Figure_1.png" style="zoom:30%"/>
 </div>
+If you find our survey useful, please kindly cite our paper:
 
+```bibtex
+@article{guo2023evaluating,
+  title={Evaluating Large Language Models: A Comprehensive Survey},
+  author={Guo, Zishan and Jin, Renren and Liu, Chuang and Huang, Yufei and Shi, Dan and Yu, Linhao and Liu, Yan and Li, Jiaxuan and Xiong, Bojian and Xiong, Deyi and others},
+  journal={arXiv preprint arXiv:2310.19736},
+  year={2023}
+}
+```
 
 ## Contributing to this paper list
 
@@ -62,13 +71,13 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
             * [Multi-hop Reasoning](#multi-hop-reasoning)
             * [Mathematical Reasoning](#mathematical-reasoning)
         * [Tool Learning](#tool-learning)
-   
+      
     * [Alignment Evaluation](#triangular_ruleralignment-evaluation)
         * [Ethics and Morality](#ethics-and-morality)
         * [Bias](#bias)
         * [Toxicity](#toxicity)
         * [Truthfulness](#truthfulness)
-   
+      
     * [Safety Evaluation](#closed_lock_with_keysafety-evaluation)
         * [Robustness Evaluation](#robustness-evaluation)
         * [Risk Evaluation](#risk-evaluation)
@@ -81,14 +90,14 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
         * [Legislation](#legislation)
         * [Computer Science](#computer-science)
         * [Finance](#finance)
-   
+      
     * [Evaluation Organization](#earth_americasevaluation-organization)
         * [Benchmarks for NLU and NLG](#benchmarks-for-nlu-and-nlg)
         * [Benchmarks for Knowledge and Reasoning](#benchmarks-for-knowledge-and-reasoning)
         * [Benchmark for Holistic Evaluation](#benchmark-for-holistic-evaluation)
-   
+      
     * [LLM Leaderboards](#llm-leaderboards)
-   
+     
     * [Contributors](#contributors)
 
 ## Related Surveys for LLMs Evaluation
