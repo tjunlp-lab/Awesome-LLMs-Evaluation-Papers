@@ -1255,7 +1255,6 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 | LAiW                                   | [[Source](https://huggingface.co/spaces/daishen/LAiW)]                                 |
 | LLMonitor                              | [[Source](https://benchmarks.llmonitor.com/)]                                          |
 | LucyEval                               | [[Source](http://cgeval.besteasy.com/)]                                                |
-| MMBench                                | [[Source](https://huggingface.co/spaces/opencompass/MMBench)]                          |
 | MMLU                                   | [[Source](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard)]         |
 | Nucleotide Transformer                 | [[Source](https://huggingface.co/spaces/InstaDeepAI/nucleotide_transformer_benchmark)] |
 | OpenCompass                            | [[Source](https://opencompass.org.cn/)]                                                |
