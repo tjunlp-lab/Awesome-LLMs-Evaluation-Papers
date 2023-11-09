@@ -905,7 +905,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 6. "**Exploring the Robustness of Large Language Models for Solving Programming Problems**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *Atsushi Shirafuji* et al. arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.14583.pdf)] [[Github](https://github.com/ashirafj/aoj-formatted-problems)] 
+    *Atsushi Shirafuji et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.14583.pdf)] [[Github](https://github.com/ashirafj/aoj-formatted-problems)] 
 
 7. "**A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
@@ -1001,6 +1001,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 6. MINT: **"MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback"** ![](https://img.shields.io/badge/Evaluation%20Method-orange) ![](https://img.shields.io/badge/Dataset-blue)
 
    *Xingyao Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2309.10691)] [[Github](https://github.com/xingyaoww/mint-bench)] [[Website & Leaderboard](https://xingyaoww.github.io/mint-bench/)]
+
+7. **"Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models"** ![](https://img.shields.io/badge/Evaluation%20Method-orange) 
+
+    *Tian Liang et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2310.20499)] [[Github](https://github.com/Skytliang/SpyGame)]
 
 ### :syringe::woman_judge::computer::moneybag:Specialized LLMs Evaluation
 
