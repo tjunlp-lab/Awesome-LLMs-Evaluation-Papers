@@ -1241,6 +1241,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 | AgentBench                             | [[Source](https://llmbench.ai/agent)]                                                  |
 | AlpacaEval                             | [[Source](https://tatsu-lab.github.io/alpaca_eval/)]                                   |
 | ANGO                                   | [[Source](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard)]                      |
+| Big Code Models Leaderboard            | [[Source](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)]           |
 | Chatbot Arena                          | [[Source](https://chat.lmsys.org/)]                                                    |
 | CLEVA                                  | [[Source](http://www.lavicleva.com/)]                                                  |
 | C-Eval                                 | [[Source](https://cevalbenchmark.com/)]                                                |
@@ -1249,7 +1250,8 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 | HELM                                   | [[Source](https://crfm.stanford.edu/helm/)]                                            |
 | Huggingface Open LLM Leaderboard       | [[Source](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]           |
 | Huggingface LLM Perf Leaderboard       | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)]                 |
-| LAiW                                   | [[Source](https://huggingface.co/spaces/daishen/LAiW)]                                 |
+| Huggingface LLM Perf Leaderboard       | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)]                 |
+| InterCode                              | [[Source](https://intercode-benchmark.github.io/)]                                     |
 | LLMonitor                              | [[Source](https://benchmarks.llmonitor.com/)]                                          |
 | LucyEval                               | [[Source](http://cgeval.besteasy.com/)]                                                |
 | MMLU                                   | [[Source](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard)]         |
