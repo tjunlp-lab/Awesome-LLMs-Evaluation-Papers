@@ -1236,7 +1236,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 ## LLM Leaderboards
 
-|                Platform                |                                          Access                                        |
+| Platform                               | Access                                                                                 |
 | :------------------------------------: | ---------------------------------------------------------------------------------------|
 | AgentBench                             | [[Source](https://llmbench.ai/agent)]                                                  |
 | AlpacaEval                             | [[Source](https://tatsu-lab.github.io/alpaca_eval/)]                                   |
