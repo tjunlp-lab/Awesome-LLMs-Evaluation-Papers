@@ -944,6 +944,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Guang Yang et al.* TOSEM 2023. [[Paper](https://dl.acm.org/doi/10.1145/3630010)]
 
+15. "**Ask Again, Then Fail: Large Language Models' Vacillations in Judgement**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Qiming Xie and Zengzhi Wang et al.* arXiv 2023. [[Paper]](https://arxiv.org/abs/2310.02174) [[Github](https://github.com/NUSTM/LLMs-Waver-In-Judgements)]
+
     
 #### Risk Evaluation
 
