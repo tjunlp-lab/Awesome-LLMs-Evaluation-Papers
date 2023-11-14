@@ -1259,8 +1259,8 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 | HELM                                   | [[Source](https://crfm.stanford.edu/helm/)]                                            |
 | Huggingface Open LLM Leaderboard       | [[Source](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]           |
 | Huggingface LLM Perf Leaderboard       | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)]                 |
-| Huggingface LLM Perf Leaderboard       | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)]                 |
 | InterCode                              | [[Source](https://intercode-benchmark.github.io/)]                                     |
+| LAiW                                   | [[Source](https://huggingface.co/spaces/daishen/LAiW)]                                 |
 | LLMonitor                              | [[Source](https://benchmarks.llmonitor.com/)]                                          |
 | LucyEval                               | [[Source](http://cgeval.besteasy.com/)]                                                |
 | MMLU                                   | [[Source](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard)]         |
