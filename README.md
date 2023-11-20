@@ -1,5 +1,3 @@
-
-
 # Awesome LLMs Evaluation Papers :bookmark_tabs:
 
 The papers are organized according to [our survey](https://arxiv.org/pdf/2310.19736.pdf):
@@ -77,6 +75,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
         * [Bias](#bias)
         * [Toxicity](#toxicity)
         * [Truthfulness](#truthfulness)
+      * [General Alignment Evaluation](#general-alignment-evaluation)
       
     * [Safety Evaluation](#closed_lock_with_keysafety-evaluation)
         * [Robustness Evaluation](#robustness-evaluation)
@@ -97,7 +96,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
         * [Benchmark for Holistic Evaluation](#benchmark-for-holistic-evaluation)
       
     * [LLM Leaderboards](#llm-leaderboards)
-     
+    
     * [Contributors](#contributors)
 
 ## Related Surveys for LLMs Evaluation
@@ -882,6 +881,60 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 42. "**Analyzing and Evaluating Faithfulness in Dialogue Summarization**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Bin Wang et al*. EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.325/)] [[GitHub](https://github.com/binwang28/faceval)]
+
+#### General Alignment Evaluation
+
+1. **"TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models"**. ![](https://img.shields.io/badge/Dataset-blue) 
+
+   *Yue Huang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.11507.pdf)] [[GitHub](https://github.com/HowieHwong/TrustGPT)]
+
+2. **"Safety Assessment of Chinese Large Language Models"**. ![](https://img.shields.io/badge/Dataset-blue) 
+
+   *Hao Sun et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2304.10436.pdf)] [[GitHub](https://github.com/thu-coai/Safety-Prompts)] [[Source](http://coai.cs.tsinghua.edu.cn/leaderboard/)] 
+
+3. **"FLASK: Fine-grained Language Model Evaluation Based on Alignment Skill Sets"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+   *Seonghyeon Ye et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.10928.pdf)] [[GitHub](https://github.com/kaistAI/FLASK)] 
+
+4. **"Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
+
+   *Lianmin Zheng et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.05685.pdf)] [[GitHub](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)] 
+
+5. **"Helpful, Honest, & Harmless - a Pragmatic Alignment Evaluation"**. ![](https://img.shields.io/badge/Dataset-blue)
+
+   *Amanda Askell et al.* GitHub 2022. [[GitHub](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/hhh_alignment)] 
+
+6. **"A Critical Evaluation of Evaluations for Long-form Question Answering"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+   *Fangyuan Xu et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2305.18201.pdf)] [[GitHub](https://github.com/carriex/lfqa_eval)] 
+
+7. **"AlpacaEval: An Automatic Evaluator of Instruction-following Models"**. ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+   *Xuechen Li et al.* Github 2023. [[Github](https://github.com/tatsu-lab/alpaca_eval)]
+
+8. **"PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization"**.  ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+   *Yidong Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.05087.pdf)] [[GitHub](https://github.com/WeOpenML/PandaLM)] 
+
+9. **"Large Language Models are not Fair Evaluators"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
+
+   *Peiyi Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2305.17926.pdf)] [[GitHub](https://github.com/i-Eval/FairEval)] 
+
+10. **"G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Yang Liu et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2303.16634.pdf)] [[GitHub](https://github.com/nlpyang/geval)] 
+
+11. **"Benchmarking Foundation Models with Language-Model-as-an-Examiner"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Yushi Bai et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.04181.pdf)] [[Source](https://lmexam.com/)] 
+
+12. **"PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Ruosen Li et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.02762.pdf)] [[Source](https://bcdnlp.github.io/PR_LLM_EVAL/)] 
+
+13. **"SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions"** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Yizhong Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2212.10560.pdf)] [[GitHub](https://github.com/yizhongw/self-instruct)] 
 
 
 ### :closed_lock_with_key:Safety Evaluation
