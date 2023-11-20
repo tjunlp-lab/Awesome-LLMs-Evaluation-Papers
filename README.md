@@ -385,7 +385,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 4. WebShop: **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"**. ![](https://img.shields.io/badge/Dataset-blue)
 
-    *Shunyu Yao et al.* NeurIPS 2022. [[Paper](https://arxiv.org/abs/2207.01206)] [[GitHub](https://github.com/princeton-nlp/WebShop)] [[Website & Leaderboard](https://webshop-pnlp.github.io/)]
+    *Shunyu Yao et al.* NeurIPS 2022. [[Paper](https://arxiv.org/abs/2207.01206)] [[GitHub](https://github.com/princeton-nlp/WebShop)] [[Source](https://webshop-pnlp.github.io/)]
 
 5. ToolAlpaca: **"ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
@@ -1062,7 +1062,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 6. MINT: **"MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback"** ![](https://img.shields.io/badge/Evaluation%20Method-orange) ![](https://img.shields.io/badge/Dataset-blue)
 
-   *Xingyao Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2309.10691)] [[Github](https://github.com/xingyaoww/mint-bench)] [[Website & Leaderboard](https://xingyaoww.github.io/mint-bench/)]
+   *Xingyao Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2309.10691)] [[Github](https://github.com/xingyaoww/mint-bench)] [[Source](https://xingyaoww.github.io/mint-bench/)]
 
 7. **"Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models"** ![](https://img.shields.io/badge/Evaluation%20Method-orange) 
 
@@ -1070,7 +1070,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 8. **"InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback"** ![](https://img.shields.io/badge/Evaluation%20Method-orange) ![](https://img.shields.io/badge/Dataset-blue) 
 
-    *John Yang et al.* NeurIPS 2023 Datasets & Benchmarks track. [[Paper](https://arxiv.org/abs/2306.14898)] [[Github](https://github.com/princeton-nlp/intercode)] [[Website & Leaderboard](https://intercode-benchmark.github.io/)]
+    *John Yang et al.* NeurIPS 2023 Datasets & Benchmarks track. [[Paper](https://arxiv.org/abs/2306.14898)] [[Github](https://github.com/princeton-nlp/intercode)] [[Source](https://intercode-benchmark.github.io/)]
 
 ### :syringe::woman_judge::computer::moneybag:Specialized LLMs Evaluation
 
@@ -1196,7 +1196,15 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 4. **"SWE-bench: Can Language Models Resolve Real-World GitHub Issues?"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange) ![](https://img.shields.io/badge/Dataset-blue)
 
-    *Jimenez, Carlos E et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2310.06770)] [[Github](https://github.com/princeton-nlp/swe-bench)] [[Website & Leaderboard](https://swe-bench.github.io/)]
+    *Jimenez, Carlos E et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2310.06770)] [[Github](https://github.com/princeton-nlp/swe-bench)] [[Source](https://swe-bench.github.io/)]
+    
+5. **"InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback"**.![](https://img.shields.io/badge/Evaluation%20Method-orange) ![](https://img.shields.io/badge/Dataset-blue) 
+
+    *John Yang et al.* NeurIPS 2023 Datasets & Benchmarks track. [[Paper](https://arxiv.org/abs/2306.14898)] [[Github](https://github.com/princeton-nlp/intercode)] [[Source](https://intercode-benchmark.github.io/)]
+
+6. **"DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation"**. ![](https://img.shields.io/badge/Dataset-blue)
+
+    *John Yang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2211.11501.pdf)] [[Source](https://intercode-benchmark.github.io/)] 
 
 #### Finance
 
