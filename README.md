@@ -144,6 +144,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 7. RAGAS: **"RAGAS: Automated Evaluation of Retrieval Augmented Generation"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Shahul Es et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2309.15217.pdf)] [[Github](https://github.com/explodinggradients/ragas/tree/main)]  
+    
+8. **"Why Does ChatGPT Fall Short in Providing Truthful Answers?"**.
+
+    *Shen Zheng and Jie Huang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2304.10513.pdf)]
 
 #### Knowledge Completion
 
