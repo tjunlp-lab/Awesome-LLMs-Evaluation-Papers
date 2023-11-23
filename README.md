@@ -145,7 +145,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Shahul Es et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2309.15217.pdf)] [[Github](https://github.com/explodinggradients/ragas/tree/main)]  
     
-8. **"Why Does ChatGPT Fall Short in Providing Truthful Answers?"**.
+8. **"Why Does ChatGPT Fall Short in Providing Truthful Answers?"**. ![](https://img.shields.io/badge/Rearch-green)
 
     *Shen Zheng and Jie Huang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2304.10513.pdf)]
 
@@ -1298,7 +1298,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Shen Zheng and Yuyu Zhang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2309.16583.pdf)] [[GitHub](https://github.com/GPT-Fathom/GPT-Fathom)] 
 
-6. **"INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models"**.
+6. **"INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models"**. ![](https://img.shields.io/badge/Dataset-blue)
 
     *Yew Ken Chia et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.04757.pdf)] [[Source](https://huggingface.co/datasets/declare-lab/InstructEvalImpact)] [[GitHub](https://github.com/declare-lab/instruct-eval)] 
 
@@ -1318,7 +1318,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
      *Yanyang Li et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2308.04813.pdf)] [[Source](http://www.lavicleva.com/)] [[GitHub](https://github.com/LaVi-Lab/CLEVA)] 
 
-12. OpenEval [[Source](openeval.org.cn)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+12. OpenEval [[Source](http://openeval.org.cn/#/)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
 ## LLM Leaderboards
 
