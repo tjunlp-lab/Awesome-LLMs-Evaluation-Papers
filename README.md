@@ -1318,7 +1318,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
      *Yanyang Li et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2308.04813.pdf)] [[Source](http://www.lavicleva.com/)] [[GitHub](https://github.com/LaVi-Lab/CLEVA)] 
 
-12. OpenEval (Coming soon) ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+12. OpenEval [[Source](openeval.org.cn)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
 ## LLM Leaderboards
 
@@ -1337,6 +1337,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 | TheoremOne LLM Benchmarking Metrics | [[Source](https://llm-evals.formula-labs.com/)]              | Evaluation Organization/ Benchmark for Holistic Evaluation   |
 |               Toloka                | [[Source](https://toloka.ai/llm-leaderboard/)]               | Evaluation Organization/ Benchmark for Holistic Evaluation   |
 |     Open Multilingual LLM Eval      | [[Source](https://huggingface.co/spaces/uonlp/open_multilingual_llm_leaderboard)] | Evaluation Organization/ Benchmark for Holistic Evaluation   |
+|              OpenEval               | [[Source](openeval.org.cn)]                                  | Evaluation Organization/ Benchmark for Holistic Evaluation   |
 |                ANGO                 | [[Source](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard)] | Evaluation Organization/ Benchmarks for Knowledge and Reasoning |
 |               C-Eval                | [[Source](https://cevalbenchmark.com/)]                      | Evaluation Organization/ Benchmarks for Knowledge and Reasoning |
 |              LucyEval               | [[Source](http://cgeval.besteasy.com/)]                      | Evaluation Organization/ Benchmarks for Knowledge and Reasoning |
