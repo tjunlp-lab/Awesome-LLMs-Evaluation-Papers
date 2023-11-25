@@ -13,8 +13,9 @@ The papers are organized according to [our survey](https://arxiv.org/pdf/2310.19
 <p align="center">(*: Co-first authors, †: Corresponding author)</p>
 
 <div align=center>
-    <img src="./imgs/Figure_1.png" style="zoom:70%"/>
+    <img src="./imgs/Figure_1.png" style="zoom:30%"/>
 </div>
+
 
 If you find our survey useful, please kindly cite our paper:
 
