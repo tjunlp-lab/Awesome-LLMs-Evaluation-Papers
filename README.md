@@ -1182,7 +1182,11 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 9. LawBench: **"LawBench: Benchmarking Legal Knowledge of Large Language Models"**. ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Rearch-green)
 
-    *Zhiwei Fei, Xiaoyu Shen and Dawei Zhu et al.*  [[Paper](https://arxiv.org/pdf/2309.16289.pdf)] [[GitHub](https://github.com/open-compass/LawBench)] 
+    *Zhiwei Fei, Xiaoyu Shen and Dawei Zhu et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2309.16289.pdf)] [[GitHub](https://github.com/open-compass/LawBench)] 
+    
+10. **"A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
+
+    *Ruihao Shui et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/pdf/2310.11761.pdf)] [[GitHub](https://github.com/srhthu/LM-CompEval-Legal)] 
 
 #### Computer Science
 
@@ -1312,7 +1316,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 10. OpenCompass: **"Evaluating the Generation Capabilities of Large Chinese Language Models"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
-    *Yuan Liu et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.06281.pdf)] [[Source](https://opencompass.org.cn/)] [[GitHub](https://github.com/open-compass/opencompass)] 
+    *Yuan Liu et al.* arXiv 2023. [[Source](https://opencompass.org.cn/)] [[GitHub](https://github.com/open-compass/opencompass)] 
 
 11. CLEVA: **"CLEVA: Chinese Language Models EVAluation Platform"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
