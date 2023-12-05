@@ -267,27 +267,31 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Hanmeng Liu et al.* TASLP 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10174688/algorithms#algorithms)] [[GitHub](https://github.com/csitfun/logiqa2.0)] 
 
-11. LSAT: **"From LSAT: The Progress and Challenges of Complex Reasoning"**.![](https://img.shields.io/badge/Dataset-blue)
+11. **Critical Thinking for Language Models**.![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
+
+    *Betz et al.* arXiv 2020. [[Paper](http://arxiv.org/abs/2009.07185)] 
+
+12. LSAT: **"From LSAT: The Progress and Challenges of Complex Reasoning"**.![](https://img.shields.io/badge/Dataset-blue)
 
     *Siyuan Wang et al.* TASLP 2021. [[Paper](http://arxiv.org/abs/2108.00648)] 
 
-12. LogicInference: **"LogicInference: A New Dataset for Teaching Logical Inference to seq2seq Models"**. ![](https://img.shields.io/badge/Dataset-blue)
+13. LogicInference: **"LogicInference: A New Dataset for Teaching Logical Inference to seq2seq Models"**. ![](https://img.shields.io/badge/Dataset-blue)
 
     *Santiago Ontanon et al.* ICLR OSC workshop 2022. [[Paper](https://arxiv.org/abs/2203.15099v3)] [[GitHub](https://github.com/google-research/google-research/tree/master/logic_inference_dataset)] 
 
-13. FOLIO: **"FOLIO: Natural Language Reasoning with First-Order Logic"**. ![](https://img.shields.io/badge/Dataset-blue)
+14. FOLIO: **"FOLIO: Natural Language Reasoning with First-Order Logic"**. ![](https://img.shields.io/badge/Dataset-blue)
 
     *Simeng Han et al.* arXiv 2022. [[Paper](http://arxiv.org/abs/2209.00840)] [[GitHub](https://github.com/Yale-LILY/FOLIO)] 
 
-14. **"Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
+15. **"Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)![](https://img.shields.io/badge/Rearch-green)
 
     *Fangzhi Xu and Qika Lin et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2306.09841v3)] [[GitHub](https://github.com/DeepReasoning/NeuLR)] 
 
-15. **"A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity"**. ![](https://img.shields.io/badge/Rearch-green)
+16. **"A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity"**. ![](https://img.shields.io/badge/Rearch-green)
 
     *Yejin Bang et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04023v2)] [[GitHub](https://github.com/HLTCHKUST/chatgpt-evaluation)] 
 
-16. **"Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4"**. ![](https://img.shields.io/badge/Rearch-green)
+17. **"Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4"**. ![](https://img.shields.io/badge/Rearch-green)
 
     *Hanmeng Liu et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2304.03439v3)] [[GitHub](https://github.com/csitfun/LogiEval)] 
 
