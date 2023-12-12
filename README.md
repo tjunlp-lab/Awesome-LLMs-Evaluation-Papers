@@ -1328,39 +1328,38 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 ## LLM Leaderboards
 
-|              Platform               | Access                                                       | Domain                                                       |
-| :---------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|            Chatbot Arena            | [[Source](https://chat.lmsys.org/)]                          | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|                CLEVA                | [[Source](http://www.lavicleva.com/)]                        | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|              FlagEval               | [[Source](https://flageval.baai.ac.cn/)]                     | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|                HELM                 | [[Source](https://crfm.stanford.edu/helm/)]                  | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|  Huggingface Open LLM Leaderboard   | [[Source](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|            InstructEval             | [[Source](https://declare-lab.net/instruct-eval/)]           | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|              LLMonitor              | [[Source](https://benchmarks.llmonitor.com/)]                | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|             OpenCompass             | [[Source](https://opencompass.org.cn/)]                      | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|             Open Ko-LLM             | [[Source](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard)] | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|              SuperCLUE              | [[Source](https://www.superclueai.com/)]                     | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-| TheoremOne LLM Benchmarking Metrics | [[Source](https://llm-evals.formula-labs.com/)]              | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|               Toloka                | [[Source](https://toloka.ai/llm-leaderboard/)]               | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|     Open Multilingual LLM Eval      | [[Source](https://huggingface.co/spaces/uonlp/open_multilingual_llm_leaderboard)] | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|              OpenEval               | [[Source](http://openeval.org.cn/#/)]                        | Evaluation Organization/ Benchmark for Holistic Evaluation   |
-|                ANGO                 | [[Source](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard)] | Evaluation Organization/ Benchmarks for Knowledge and Reasoning |
-|               C-Eval                | [[Source](https://cevalbenchmark.com/)]                      | Evaluation Organization/ Benchmarks for Knowledge and Reasoning |
-|              LucyEval               | [[Source](http://cgeval.besteasy.com/)]                      | Evaluation Organization/ Benchmarks for Knowledge and Reasoning |
-|                MMLU                 | [[Source](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard)] | Evaluation Organization/ Benchmarks for Knowledge and Reasoning |
-|             OpenKG LLM              | [[Source](https://huggingface.co/spaces/openkg/llm_leaderboard)] | Evaluation Organization/ Benchmarks for Knowledge and Reasoning |
-|             SEED-Bench              | [[Source](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard)] | Evaluation Organization/ Benchmarks for NLU and NLG          |
-|              SuperGLUE              | [[Source](https://super.gluebenchmark.com/)]                 | Evaluation Organization/ Benchmarks for NLU and NLG          |
-|              Toolbench              | [[Source](https://huggingface.co/spaces/qiantong-xu/toolbench-leaderboard)] | Knowledge and Capability Evaluation/ Tool Learning           |
-|      Hallucination Leaderboard      | [[Source](https://github.com/vectara/hallucination-leaderboard)] | Alignment Evaluation/ Truthfulness                           |
-|             AlpacaEval              | [[Source](https://tatsu-lab.github.io/alpaca_eval/)]         | Alignment Evaluation/ General Alignment Evaluation           |
-|             AgentBench              | [[Source](https://llmbench.ai/agent)]                        | Safety Evaluation/ Evaluating LLMs as Agents                 |
-|              InterCode              | [[Source](https://intercode-benchmark.github.io/)]           | Safety Evaluation/ Evaluating LLMs as Agents                 |
-|             SafetyBench             | [[Source](https://llmbench.ai/safety)]                       | Safety Evaluation                                            |
-|       Nucleotide Transformer        | [[Source](https://huggingface.co/spaces/InstaDeepAI/nucleotide_transformer_benchmark)] | Specialized LLMs Evaluation/ Biology and Medicine            |
-|                LAiW                 | [[Source](https://huggingface.co/spaces/daishen/LAiW)]       | Specialized LLMs Evaluation/ Legislation                     |
-|     Big Code Models Leaderboard     | [[Source](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)] | Specialized LLMs Evaluation/ Computer Science                |
-|  Huggingface LLM Perf Leaderboard   | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] | the Performance of LLMs                                      |
+| Platform                               | Access                                                                                 |
+| :------------------------------------: | ---------------------------------------------------------------------------------------|
+| AgentBench                             | [[Source](https://llmbench.ai/agent)]                                                  |
+| AlpacaEval                             | [[Source](https://tatsu-lab.github.io/alpaca_eval/)]                                   |
+| ANGO                                   | [[Source](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard)]                      |
+| Big Code Models Leaderboard            | [[Source](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)]           |
+| Chatbot Arena                          | [[Source](https://chat.lmsys.org/)]                                                    |
+| CLEVA                                  | [[Source](http://www.lavicleva.com/)]                                                  |
+| C-Eval                                 | [[Source](https://cevalbenchmark.com/)]                                                |
+| FlagEval                               | [[Source](https://flageval.baai.ac.cn/)]                                               |
+| Hallucination Leaderboard              | [[Source](https://github.com/vectara/hallucination-leaderboard)]                       |
+| HELM                                   | [[Source](https://crfm.stanford.edu/helm/)]                                            |
+| Huggingface Open LLM Leaderboard       | [[Source](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]           |
+| Huggingface LLM Perf Leaderboard       | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)]                 |
+| InstructEval                           | [[Source](https://github.com/declare-lab/instruct-eval)]                               |
+| InterCode                              | [[Source](https://intercode-benchmark.github.io/)]                                     |
+| LAiW                                   | [[Source](https://huggingface.co/spaces/daishen/LAiW)]                                 |
+| LLMonitor                              | [[Source](https://benchmarks.llmonitor.com/)]                                          |
+| LucyEval                               | [[Source](http://cgeval.besteasy.com/)]                                                |
+| MMLU                                   | [[Source](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard)]         |
+| Nucleotide Transformer                 | [[Source](https://huggingface.co/spaces/InstaDeepAI/nucleotide_transformer_benchmark)] |
+| OpenCompass                            | [[Source](https://opencompass.org.cn/)]                                                |
+| OpenEval                               | [[Source](http://openeval.org.cn/#/rank)]                                              |
+| Open Ko-LLM                            | [[Source](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard)]              |
+| Open Multilingual LLM Eval             | [[Source](https://huggingface.co/spaces/uonlp/open_multilingual_llm_leaderboard)]      |
+| SafetyBench                            | [[Source](https://llmbench.ai/safety)]                                                 |
+| SEED-Bench                             | [[Source](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard)]             |
+| SuperCLUE                              | [[Source](https://www.superclueai.com/)]                                               |
+| SuperGLUE                              | [[Source](https://super.gluebenchmark.com/)]                                           |
+| TheoremOne LLM Benchmarking Metrics    | [[Source](https://llm-evals.formula-labs.com/)]                                        |
+| Toloka                                 | [[Source](https://toloka.ai/llm-leaderboard/)]                                         |
+| Toolbench                              | [[Source](https://huggingface.co/spaces/qiantong-xu/toolbench-leaderboard)]            |
 
 ## Contributors
 
