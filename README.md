@@ -942,6 +942,9 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Yizhong Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2212.10560.pdf)] [[GitHub](https://github.com/yizhongw/self-instruct)] 
 
+14. **"FOFO: A Benchmark to Evaluate LLMs' Format-Following Capability"** ![](https://img.shields.io/badge/Dataset-blue)
+
+    *Congying Xia et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.18667)] [[GitHub](https://github.com/SalesforceAIResearch/FoFo)]
 
 ### :closed_lock_with_key:Safety Evaluation
 
