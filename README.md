@@ -1020,7 +1020,11 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 3. **"Is Power-Seeking AI an Existential Risk?"**. ![](https://img.shields.io/badge/Dataset-blue)
 
-    *Joseph Carlsmith.* arXiv 2023.  [[Paper](https://arxiv.org/abs/2206.13353)] 
+    *Joseph Carlsmith.* arXiv 2023.  [[Paper](https://arxiv.org/abs/2206.13353)]
+
+4. **SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks** ![](https://img.shields.io/badge/Dataset-blue)
+
+    *Tianhao Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.03769)]
 
 ##### Evaluating LLMs Behaviors
 
