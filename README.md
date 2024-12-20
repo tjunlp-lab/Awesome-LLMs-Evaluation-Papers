@@ -1254,7 +1254,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 1. MMLU: **"Measuring Massive Multitask Language Understanding"**. ![](https://img.shields.io/badge/Dataset-blue)
 
-    *Dan Hendrycks et al.* ICLR 2021. [[Paper](http://arxiv.org/abs/1506.06724v1)] [[GitHub](https://github.com/hendrycks/test)] 
+    *Dan Hendrycks et al.* ICLR 2021. [[Paper](http://arxiv.org/abs/1506.06724v1)] [[GitHub](https://github.com/hendrycks/test)] [[Hugging Face](https://huggingface.co/datasets/cais/mmlu)]
 
 2. MMCU: **"Measuring Massive Multitask Chinese Understanding"**. ![](https://img.shields.io/badge/Dataset-blue)
 
