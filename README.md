@@ -151,6 +151,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Shen Zheng and Jie Huang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2304.10513.pdf)]
 
+9. TQAB++ **"Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation".** ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Vincent Koc.* arXiv 2025. [[Paper](https://arxiv.org/pdf/2505.12058.pdf)] [[Github](https://github.com/vincentkoc/tiny_qa_benchmark_pp)]  
+
 #### Knowledge Completion
 
 1. LAMA: **"Language Models as Knowledge Bases?"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
