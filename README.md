@@ -942,6 +942,9 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Yizhong Wang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2212.10560.pdf)] [[GitHub](https://github.com/yizhongw/self-instruct)] 
 
+14. **"Causal Judge Evaluation: Calibrated Surrogate Metrics for LLM Systems"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Eddie Landesberg and Manjari Narayan.* arXiv 2025. [[Paper](https://arxiv.org/pdf/2512.11150.pdf)] [[GitHub](https://github.com/cimo-labs/cje)]
 
 ### :closed_lock_with_key:Safety Evaluation
 
