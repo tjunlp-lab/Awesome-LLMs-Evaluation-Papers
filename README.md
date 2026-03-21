@@ -888,6 +888,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Bin Wang et al*. EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.325/)] [[GitHub](https://github.com/binwang28/faceval)]
 
+43. "**DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness**". ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, and Haizhao Yang*. arXiv 2026. [[Paper](https://arxiv.org/abs/2601.14210)]
+
 #### General Alignment Evaluation
 
 1. **"TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models"**. ![](https://img.shields.io/badge/Dataset-blue) 
