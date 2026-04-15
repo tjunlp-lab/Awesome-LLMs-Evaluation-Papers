@@ -1078,6 +1078,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *John Yang et al.* NeurIPS 2023 Datasets & Benchmarks track. [[Paper](https://arxiv.org/abs/2306.14898)] [[Github](https://github.com/princeton-nlp/intercode)] [[Source](https://intercode-benchmark.github.io/)]
 
+9. **"ClawBench: Evaluating Browser Agents on Live Production Websites"** ![](https://img.shields.io/badge/Dataset-blue)
+
+    *NAIL Group.* arXiv 2026. [[Paper](https://arxiv.org/abs/2604.08523)] [[Github](https://github.com/reacher-z/ClawBench)] [[Source](https://claw-bench.com)]
+
 ### :syringe::woman_judge::computer::moneybag:Specialized LLMs Evaluation
 
 #### Biology and Medicine
