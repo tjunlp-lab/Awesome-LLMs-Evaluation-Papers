@@ -1362,6 +1362,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 |     Big Code Models Leaderboard     | [[Source](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)] | Specialized LLMs Evaluation/ Computer Science                |
 |  Huggingface LLM Perf Leaderboard   | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] | the Performance of LLMs                                      |
 
+| [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) | Scientific critique & epistemic calibration on recent science summaries | 2026 | BGPT | [dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) · [leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) |
 ## Contributors
 
 <a href="https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers/graphs/contributors">
