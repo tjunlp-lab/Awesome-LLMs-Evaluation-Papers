@@ -1078,6 +1078,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *John Yang et al.* NeurIPS 2023 Datasets & Benchmarks track. [[Paper](https://arxiv.org/abs/2306.14898)] [[Github](https://github.com/princeton-nlp/intercode)] [[Source](https://intercode-benchmark.github.io/)]
 
+9. PEBA: **"Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations"** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Yunzhe Wang et al.* EMNLP 2025. [[Paper](https://arxiv.org/abs/2509.16457)]
+
 ### :syringe::woman_judge::computer::moneybag:Specialized LLMs Evaluation
 
 #### Biology and Medicine
