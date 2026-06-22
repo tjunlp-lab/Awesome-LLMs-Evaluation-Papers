@@ -1234,6 +1234,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Niszczota P et al.* SSRN 2023. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4384861)] 
 
+5. MMESGBench: **"MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
+
+    *Lei Zhang et al.* ACM MM 2025. [[Paper](https://arxiv.org/abs/2507.18932)] [[Github](https://github.com/Zhanglei1103/MMESGBench)] 
+
 ### :earth_americas:Evaluation Organization
 
 #### Benchmarks for NLU and NLG
