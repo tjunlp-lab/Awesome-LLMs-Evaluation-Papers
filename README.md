@@ -1234,6 +1234,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Niszczota P et al.* SSRN 2023. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4384861)] 
 
+5. ESGenius: **"ESGenius: Benchmarking LLMs on Environmental, Social, and Governance (ESG) and Sustainability Knowledge"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Rearch-green)
+
+    *Chaoyue He et al.* EMNLP 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.739/)] [[arXiv](https://arxiv.org/abs/2506.01646)] [[Github](https://github.com/ANGEL-NTU/ESGenius)] [[Dataset](https://huggingface.co/datasets/cy0307/ESGenius)] 
+
 ### :earth_americas:Evaluation Organization
 
 #### Benchmarks for NLU and NLG
