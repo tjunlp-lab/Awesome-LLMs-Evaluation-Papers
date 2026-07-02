@@ -1216,7 +1216,15 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *John Yang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2211.11501.pdf)] [[Source](https://intercode-benchmark.github.io/)] 
 
-#### Finance
+##
+## Finance LLM Benchmarks
+
+- **Helium Market Resolution Benchmark** (2026) - 300 frozen option-chain prompts; tests IV, delta, arbitrage. [Dataset](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) | [Overview](https://heliumtrades.com/benchmarks/)
+
+## Bias and Values Benchmarks
+
+- **Helium Model Worldview Benchmark** (2026) - 304 paired prompts for safety, values, bias, politics. [Dataset](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) | [Overview](https://heliumtrades.com/benchmarks/)
+## Finance
 
 1. **"Xuanyuan 2.0: A large chinese financial chat model with hundreds of billions parameters"**. ![](https://img.shields.io/badge/Rearch-green)
 
