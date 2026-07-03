@@ -684,6 +684,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Terry Yue Zhuo et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12867)]
 
+6. **"Helium Model Worldview Benchmark"** (paired cue-swap safety/bias eval). ![](https://img.shields.io/badge/Dataset-blue)
+
+    *Helium Trades.* 2026. [[Dataset](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark)] [[Overview](https://heliumtrades.com/benchmarks/)] — 304 paired prompts; flip-rate when one cue is swapped.
+
 #### Toxicity
 
 1. OLID: "**Predicting the Type and Target of Offensive Posts in Social Media".** ![](https://img.shields.io/badge/Dataset-blue)
@@ -1216,7 +1220,11 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *John Yang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2211.11501.pdf)] [[Source](https://intercode-benchmark.github.io/)] 
 
-#### Finance
+## Finance
+
+1. **"Helium Market Resolution Benchmark"** (option-chain math eval). ![](https://img.shields.io/badge/Dataset-blue)
+
+    *Helium Trades.* 2026. [[Dataset](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark)] [[Overview](https://heliumtrades.com/benchmarks/)] — frozen live chains; ground truth from market.
 
 1. **"Xuanyuan 2.0: A large chinese financial chat model with hundreds of billions parameters"**. ![](https://img.shields.io/badge/Rearch-green)
 
