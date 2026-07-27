@@ -1078,6 +1078,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *John Yang et al.* NeurIPS 2023 Datasets & Benchmarks track. [[Paper](https://arxiv.org/abs/2306.14898)] [[Github](https://github.com/princeton-nlp/intercode)] [[Source](https://intercode-benchmark.github.io/)]
 
+9. StructEval: **"StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs"** ![](https://img.shields.io/badge/Evaluation%20Method-orange) ![](https://img.shields.io/badge/Dataset-blue)
+
+    *Jialin Yang et al.* TMLR 2025. [[Paper](https://arxiv.org/abs/2505.20139)] [[GitHub](https://github.com/TIGER-AI-Lab/StructEval)] [[Project](https://structeval.github.io/)]
+
 ### :syringe::woman_judge::computer::moneybag:Specialized LLMs Evaluation
 
 #### Biology and Medicine
@@ -1367,4 +1371,3 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 <a href="https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=tjunlp-lab/Awesome-LLMs-Evaluation-Papers" />
 </a>
-
