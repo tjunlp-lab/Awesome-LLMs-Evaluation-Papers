@@ -1308,23 +1308,27 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Yew Ken Chia et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.04757.pdf)] [[Source](https://huggingface.co/datasets/declare-lab/InstructEvalImpact)] [[GitHub](https://github.com/declare-lab/instruct-eval)] 
 
-7. Huggingface Open LLM Leaderboard [[Source](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+7. StructEval: **"StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-8. Chatbot Arena: **"Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)![](https://img.shields.io/badge/Evaluation%20Method-orange)
+    *Jialin Yang et al.* Transactions on Machine Learning Research 2025. [[Paper](https://arxiv.org/abs/2505.20139)] [[GitHub](https://github.com/TIGER-AI-Lab/StructEval)] [[Source](https://structeval.github.io/)] [[Dataset](https://huggingface.co/datasets/TIGER-Lab/StructEval)]
+
+8. Huggingface Open LLM Leaderboard [[Source](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+
+9. Chatbot Arena: **"Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
     *Lianmin Zheng et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.05685.pdf)] [[Source](https://chat.lmsys.org/?arena)] [[GitHub](http://https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)] 
 
-9. FlagEval [[Source](https://flageval.baai.ac.cn/)] [[GitHub](https://github.com/FlagOpen/FlagEval)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+10. FlagEval [[Source](https://flageval.baai.ac.cn/)] [[GitHub](https://github.com/FlagOpen/FlagEval)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
-10. OpenCompass: **"Evaluating the Generation Capabilities of Large Chinese Language Models"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+11. OpenCompass: **"Evaluating the Generation Capabilities of Large Chinese Language Models"**. ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
     *Yuan Liu et al.* arXiv 2023. [[Source](https://opencompass.org.cn/)] [[GitHub](https://github.com/open-compass/opencompass)] 
 
-11. CLEVA: **"CLEVA: Chinese Language Models EVAluation Platform"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+12. CLEVA: **"CLEVA: Chinese Language Models EVAluation Platform"**. ![](https://img.shields.io/badge/Dataset-blue)![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
      *Yanyang Li et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2308.04813.pdf)] [[Source](http://www.lavicleva.com/)] [[GitHub](https://github.com/LaVi-Lab/CLEVA)] 
 
-12. OpenEval [[Source](http://openeval.org.cn/#/)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
+13. OpenEval [[Source](http://openeval.org.cn/#/)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
 ## LLM Leaderboards
 
@@ -1367,4 +1371,3 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 <a href="https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=tjunlp-lab/Awesome-LLMs-Evaluation-Papers" />
 </a>
-
