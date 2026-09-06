@@ -888,6 +888,14 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Bin Wang et al*. EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.325/)] [[GitHub](https://github.com/binwang28/faceval)]
 
+43. "**A Taxonomy of Epistemic Failure Modes in Large Language Models**". ![](https://img.shields.io/badge/Rearch-green)
+
+    *Rolando Bosch*. Zenodo 2026 (preprint). [[Paper](https://doi.org/10.5281/zenodo.19042469)] [[GitHub](https://github.com/hermes-labs-ai/taxonomy-of-epistemic-failure-modes)]
+
+44. "**The Asymmetric Burden of Proof: LLMs Show a Null-Result Asymmetry in a Matched-Vignette Benchmark**". ![](https://img.shields.io/badge/Rearch-green)
+
+    *Rolando Bosch*. Zenodo 2026 (working paper). [[Paper](https://doi.org/10.5281/zenodo.18867694)] [[GitHub](https://github.com/hermes-labs-ai/the-asymmetric-burden-of-proof)]
+
 #### General Alignment Evaluation
 
 1. **"TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models"**. ![](https://img.shields.io/badge/Dataset-blue) 
