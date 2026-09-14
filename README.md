@@ -1326,6 +1326,13 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 12. OpenEval [[Source](http://openeval.org.cn/#/)] ![](https://img.shields.io/badge/Evaluation%20Platform-yellow)
 
+13. Benchmark Radar: **"Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation"**.
+
+    *Koutian Wu et al.* arXiv 2026. [[GitHub](https://github.com/ktwu01/benchmark-radar)] [[Paper](https://arxiv.org/abs/2609.11115)]
+
+    A living benchmark catalog and search engine for discovering evaluations, locating datasets and code, and inspecting source-linked score histories.
+
+
 ## LLM Leaderboards
 
 |              Platform               | Access                                                       | Domain                                                       |
