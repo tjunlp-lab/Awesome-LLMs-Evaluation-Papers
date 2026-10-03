@@ -1362,6 +1362,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 |     Big Code Models Leaderboard     | [[Source](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)] | Specialized LLMs Evaluation/ Computer Science                |
 |  Huggingface LLM Perf Leaderboard   | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] | the Performance of LLMs                                      |
 
+| ModelBenchmark | [[Source](https://modelbenchmark.io/)] | Composite ranking of 202 models from 16 public benchmarks, plus prices and context windows
 ## Contributors
 
 <a href="https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers/graphs/contributors">
