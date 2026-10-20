@@ -93,6 +93,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
         * [Finance](#finance)
       
     * [Evaluation Organization](#earth_americasevaluation-organization)
+        * [Evaluation Metrics](#evaluation-metrics)
         * [Benchmarks for NLU and NLG](#benchmarks-for-nlu-and-nlg)
         * [Benchmarks for Knowledge and Reasoning](#benchmarks-for-knowledge-and-reasoning)
         * [Benchmark for Holistic Evaluation](#benchmark-for-holistic-evaluation)
@@ -1235,6 +1236,12 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
     *Niszczota P et al.* SSRN 2023. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4384861)] 
 
 ### :earth_americas:Evaluation Organization
+
+#### Evaluation Metrics
+
+1. Bayes@N: **"Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Mohsen Hariri et al.* ICLR 2026. [[Paper](https://arxiv.org/abs/2510.04265)] [[GitHub](https://github.com/mohsenhariri/scorio)]
 
 #### Benchmarks for NLU and NLG
 
