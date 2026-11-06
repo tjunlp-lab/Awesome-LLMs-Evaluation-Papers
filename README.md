@@ -1007,6 +1007,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *Qiming Xie and Zengzhi Wang et al.* arXiv 2023. [[Paper]](https://arxiv.org/abs/2310.02174) [[Github](https://github.com/NUSTM/LLMs-Waver-In-Judgements)]
 
+16. **"Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers".** ![](https://img.shields.io/badge/Evaluation%20Method-orange)
+
+    *Sungguk Cha et al.* arXiv preprint 2026. [[Paper](https://arxiv.org/abs/2611.05798)]
+
     
 #### Risk Evaluation
 
