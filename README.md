@@ -1078,6 +1078,10 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
     *John Yang et al.* NeurIPS 2023 Datasets & Benchmarks track. [[Paper](https://arxiv.org/abs/2306.14898)] [[Github](https://github.com/princeton-nlp/intercode)] [[Source](https://intercode-benchmark.github.io/)]
 
+9. TraceTrial-Bench: **"Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution"** ![](https://img.shields.io/badge/Evaluation%20Method-orange) ![](https://img.shields.io/badge/Dataset-blue)
+
+    *Zhiyong Cao et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2610.32285)] [[GitHub](https://github.com/TraceLite-AI/TraceTrial-Bench)] [[Leaderboard](https://tracelite.ai/leaderboard.html)]
+
 ### :syringe::woman_judge::computer::moneybag:Specialized LLMs Evaluation
 
 #### Biology and Medicine
@@ -1356,6 +1360,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 |             AlpacaEval              | [[Source](https://tatsu-lab.github.io/alpaca_eval/)]         | Alignment Evaluation/ General Alignment Evaluation           |
 |             AgentBench              | [[Source](https://llmbench.ai/agent)]                        | Safety Evaluation/ Evaluating LLMs as Agents                 |
 |              InterCode              | [[Source](https://intercode-benchmark.github.io/)]           | Safety Evaluation/ Evaluating LLMs as Agents                 |
+|          TraceTrial-Bench           | [[Source](https://tracelite.ai/leaderboard.html)]            | Safety Evaluation/ Evaluating LLMs as Agents                 |
 |             SafetyBench             | [[Source](https://llmbench.ai/safety)]                       | Safety Evaluation                                            |
 |       Nucleotide Transformer        | [[Source](https://huggingface.co/spaces/InstaDeepAI/nucleotide_transformer_benchmark)] | Specialized LLMs Evaluation/ Biology and Medicine            |
 |                LAiW                 | [[Source](https://huggingface.co/spaces/daishen/LAiW)]       | Specialized LLMs Evaluation/ Legislation                     |
